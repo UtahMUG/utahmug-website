@@ -18,6 +18,8 @@
 html {
   font-size: 100%;
   height: 100%;
+  padding-bottom: 1rem; /* Reserving space for scrollbar */
+  overflow-y: scroll;   /* Always show vertical scrollbar */
 }
 
 body {
