@@ -22,6 +22,7 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
+<<<<<<< HEAD
   email: utahmug@gmail.com
   facebook:
   flickr:
@@ -30,6 +31,16 @@ footer-links:
   linkedin: 
   pinterest:
   rss: rss
+=======
+  email: bhereth@wfrc.org
+  facebook:
+  flickr:
+  github: 
+  instagram:
+  linkedin: 
+  pinterest:
+  rss: 
+>>>>>>> master
   twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
