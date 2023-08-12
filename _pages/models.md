@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Getting started with Reverie
-permalink: /getting-started/
+title: Models
+permalink: /models/
 ---
+
+Here we'll put all info about models!!
+
+Model info sheets!
 
 ### Step 1) Fork Reverie to your User Repository
 
