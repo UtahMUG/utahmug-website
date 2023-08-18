@@ -12,39 +12,29 @@ As the Utah Model Users Group (MUG), we operate independently from, but in partn
 
 ## Objectives and Goals
 
-#### We benefit from the knowledge and experience of all users and conduct our pursuits in a spirit of mutual respect and collaboration.
+**We benefit from the knowledge and experience of all users and conduct our pursuits in a spirit of mutual respect and collaboration.**
 
-We support the MUG Steering Committee with representation from a wide range of user types to guide the functions of the group.
+- We support the MUG Steering Committee with representation from a wide range of user types to guide the functions of the group.
+- We employ a rotating representation of subject matter and geography in all our meetings.
+- We hold a general meeting at least once per quarter and other topic-specific meetings as needed.
 
-We employ a rotating representation of subject matter and geography in all our meetings.
+**We inform each other on developments, activities, best practices, and innovations in models and tools.**
 
-We hold a general meeting at least once per quarter and other topic-specific meetings as needed.
+- We maintain an open digital archive of model reference information and tools, including best practices and current model development efforts.
+- We regularly inform each other regarding the actions and directions of the respective projects and committees in which we are involved.
+- We highlight a unique development or application at each quarterly meeting that is also shared via digital communication and a future website.
 
-### We inform each other on developments, activities, best practices, and innovations in models and tools.
+**We improve the models, tools, and practice of travel demand forecasting.**
 
-We maintain an open digital archive of model reference information and tools, including best practices and current model development efforts.
+- We maintain and advocate for a prioritized list of user-identified research and improvement needs in models, methods, tools, and user skills.
+- We facilitate broader discussion and collaboration on model and travel forecasting improvements through the use of a digital peer exchange platform.
+- We foster mentorship amongst our members by connecting those with varied levels of experience and expertise.
 
-We regularly inform each other regarding the actions and directions of the respective projects and committees in which we are involved.
+**We promote the field and practitioners of travel demand forecasting to grow the reach and depth of our industry.**
 
-We highlight a unique development or application at each quarterly meeting that is also shared via digital communication and a future website.
-
-### We improve the models, tools, and practice of travel demand forecasting.
-
-We maintain and advocate for a prioritized list of user-identified research and improvement needs in models, methods, tools, and user skills.
-
-
-We facilitate broader discussion and collaboration on model and travel forecasting improvements through the use of a digital peer exchange platform.
-
-
-We foster mentorship amongst our members by connecting those with varied levels of experience and expertise.
-
-### We promote the field and practitioners of travel demand forecasting to grow the reach and depth of our industry.
-
-We share information for model and tool applications and innovations that have broader impact with those beyond our group.
-
-We highlight all types of users with a ‘User of the Quarter’ series via digital communication and a future website.
-
-We forward presentation ideas to other conferences, such as the Utah ITE Annual Conference and the Utah Transportation Conference.
+- We share information for model and tool applications and innovations that have broader impact with those beyond our group.
+- We highlight all types of users with a ‘User of the Quarter’ series via digital communication and a future website.
+- We forward presentation ideas to other conferences, such as the Utah ITE Annual Conference and the Utah Transportation Conference.
 
 
 ## MUG Steering Committee (DRAFT)
