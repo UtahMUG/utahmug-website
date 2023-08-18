@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Discussion Board
-permalink: /discussion/
+title: Discussions
+permalink: /discussions/
 ---
 
 Welcome to the discussion board. Feel free to post questions or concerns related to the model. Users must sign in to GitHub to comment.
