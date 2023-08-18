@@ -48,7 +48,7 @@ As the Utah Model Users Group (MUG), we operate independently from, but in partn
 
 ## Executive Committee (DRAFT)
 
-The Utah Model Users Group (MUG) Executive Committee decides on the priorities and order of business of MUG and manages the general course of operations in accordance with the MUG’s Vision, Objectives, and Goals. Input regarding modifications to MUG goals and objectives are solicited from general membership, considered by this committee, and then presented to MUG members for ratification.
+The Utah Model Users Group (MUG) Executive Committee executes the priorities and order of business of MUG and manages the general course of operations in accordance with the MUG’s Vision, Objectives, and Goals. Input regarding modifications to MUG goals and objectives are solicited from general membership, considered by this committee, and then presented to MUG members for ratification.
 
 The Executive Committee consists of a committee chair and members representing the wide range of model users.
 
@@ -62,10 +62,10 @@ The chair is nominated by the Interagency Modeling Technical Committee (IMTC) an
 
 Executive Committee members provide input and perspective based on the individual user role they represent, advise and assist the chair in their duties, and help solicit and gather information for the Chair with respect to quarterly meetings and for the Communications Committee with respect to mailing list, website and digital archives, and a blog or newsletter. 
 
-In addition to the Chair, the Executive Committee consists of the following members:
+In addition to the Chair, the Executive Committee may consist of the following members:
 
 - One representative appointed from the Interagency Modeling Technical Committee (IMTC)
-- One or two volunteered or solicited representatives from consultant users, as nominated by Executive Committee Chair, in consultation with IMTC, and then ratified by MUG members
+- One to three volunteered or solicited representatives from consultant users, as nominated by Executive Committee Chair, in consultation with IMTC, and then ratified by MUG members
 - One volunteered or solicited representative from academia, as nominated by Executive Committee Chair, in consultation with IMTC, and then ratified by MUG members
 - One representative appointed from the MUG Communications Committee
 
