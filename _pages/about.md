@@ -36,29 +36,42 @@ As the Utah Model Users Group (MUG), we operate independently from, but in partn
 - We highlight all types of users with a ‘User of the Quarter’ series via digital communication and a future website.
 - We forward presentation ideas to other conferences, such as the Utah ITE Annual Conference and the Utah Transportation Conference.
 
+## Executive Committee Members
 
-## MUG Steering Committee (DRAFT)
+- Natalia Brown, UDOT - Chair ([email](mailto:nataliabrown@utah.gov))
+- Josh Alpers, Horrocks ([email](mailto:josha@horrocks.com))
+- Chris Day, Wasatch Front Regional Council ([email](mailto:cday@wfrc.org))
+- Craig Gresham, Fehr and Peers ([email](mailto:c.gresham@fehrandpeers.com))
+- Bill Hereth, Wasatch Front Regional Council ([email](mailto:bhereth@wfrc.org))
+- Ivan Hooper, Avenue Consultants ([email](mailto:ihooper@avenueconsultants.com))
+- Greg Macfarlane, Brigham Young University ([email](mailto:gregmacfarlane@byu.edu))
 
-The Utah Model Users Group (MUG) Steering Committee decides on the priorities and order of business of MUG and manages the general course of operations in accordance with the MUG’s Vision, Objectives, and Goals. Input regarding modifications to MUG goals and objectives are solicited from general membership, considered by this committee, and then presented to MUG members for ratification.
+## Executive Committee (DRAFT)
 
-The Steering Committee consists of a committee chair and members representing the wide range of model users.
-Chair
-The Chair leads the Steering Committee. In coordination and support from other members of the committee, the chair solicits agenda items for quarterly meetings, sets the agenda, conducts the meetings, and designates a note taker at each meeting, preferably from among the membership of the Steering Committee. The chair can delegate a portion of their responsibilities to any other member of the Steering Committee.
+The Utah Model Users Group (MUG) Executive Committee decides on the priorities and order of business of MUG and manages the general course of operations in accordance with the MUG’s Vision, Objectives, and Goals. Input regarding modifications to MUG goals and objectives are solicited from general membership, considered by this committee, and then presented to MUG members for ratification.
+
+The Executive Committee consists of a committee chair and members representing the wide range of model users.
+
+**Chair**
+
+The Chair leads the Executive Committee. In coordination and support from other members of the committee, the chair solicits agenda items for quarterly meetings, sets the agenda, conducts the meetings, and designates a note taker at each meeting, preferably from among the membership of the Executive Committee. The chair can delegate a portion of their responsibilities to any other member of the Executive Committee.
 
 The chair is nominated by the Interagency Modeling Technical Committee (IMTC) and ratified by MUG members and serves a term of two to three years.
-Members
-Steering Committee members provide input and perspective based on the individual user role they represent, advise and assist the chair in their duties, and help solicit and gather information for the Chair with respect to quarterly meetings and for the Communications Committee with respect to mailing list, website and digital archives, and a blog or newsletter. 
 
-In addition to the Chair, the Steering Committee consists of the following members:
+**Members**
+
+Executive Committee members provide input and perspective based on the individual user role they represent, advise and assist the chair in their duties, and help solicit and gather information for the Chair with respect to quarterly meetings and for the Communications Committee with respect to mailing list, website and digital archives, and a blog or newsletter. 
+
+In addition to the Chair, the Executive Committee consists of the following members:
 
 - One representative appointed from the Interagency Modeling Technical Committee (IMTC)
-- One or two volunteered or solicited representatives from consultant users, as nominated by Steering Committee Chair, in consultation with IMTC, and then ratified by MUG members
-- One volunteered or solicited representative from academia, as nominated by Steering Committee Chair, in consultation with IMTC, and then ratified by MUG members
+- One or two volunteered or solicited representatives from consultant users, as nominated by Executive Committee Chair, in consultation with IMTC, and then ratified by MUG members
+- One volunteered or solicited representative from academia, as nominated by Executive Committee Chair, in consultation with IMTC, and then ratified by MUG members
 - One representative appointed from the MUG Communications Committee
 
-## MUG Communications Committee (DRAFT)
+## Communications Committee (DRAFT)
 
-The Communications Committee provides support to the Steering Committee in (1) maintaining a mailing list; (2) creating and maintaining a MUG website, reference material archives, and any other digital communications platform; and (3) maintaining a digital blog or periodic newsletter. The communications committee consists of any number of MUG members that are either from volunteers or solicitations. The Communications Committee chair and members are nominated by the Steering Committee chair and ratified by the Steering Committee members.
+The Communications Committee provides support to the Executive Committee in (1) maintaining a mailing list; (2) creating and maintaining a MUG website, reference material archives, and any other digital communications platform; and (3) maintaining a digital blog or periodic newsletter. The communications committee consists of any number of MUG members that are either from volunteers or solicitations. The Communications Committee chair and members are nominated by the Executive Committee chair and ratified by the Executive Committee members.
 
 
 
