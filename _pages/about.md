@@ -14,9 +14,9 @@ As the Utah Model Users Group (MUG), we operate independently from, but in partn
 
 **We benefit from the knowledge and experience of all users and conduct our pursuits in a spirit of mutual respect and collaboration.**
 
-- We support the MUG Steering Committee with representation from a wide range of user types to guide the functions of the group.
+- We support the MUG Executive Committee with representation from a wide range of user types to guide the functions of the group.
 - We employ a rotating representation of subject matter and geography in all our meetings.
-- We hold a general meeting at least once per quarter and other topic-specific meetings as needed.
+- We hold a general meeting at least three times per year and other topic-specific meetings as needed.
 
 **We inform each other on developments, activities, best practices, and innovations in models and tools.**
 
