@@ -2,6 +2,7 @@
 layout: post
 title: The official MUG website is born!
 categories: Website
+author: Chris Day
 ---
 
 Big news everybody. The Utah Model Users Group now has an official website. As you can see, the website is divided up into 6 categories.
