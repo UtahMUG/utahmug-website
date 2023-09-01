@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Segment Shapefile Naming Process
+title: Segment Shapefile Maintaining Process
 categories: Cache Dixie Iron SummitWasatch UtahStatewide WasatchFront
 author: Bill Hereth
 ---
