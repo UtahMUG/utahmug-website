@@ -5,7 +5,7 @@ categories: AllModels
 author: Bill Hereth
 ---
 
-At yesterday's monthly Interagency Modeling Technical Committee, we discussed the standardization of common TDM filenames across all the models in the state. This is facilitate better tracking of files as they are shared between agencies, most importantly UDOT, who manages multiple models simultaenesously.
+At yesterday's monthly Interagency Modeling Technical Committee, we discussed the standardization of common TDM filenames across all the models in the state. This is facilitate better tracking of files as they are shared between agencies or users as they manage multiple models or model versions simultaneously.
 
 For data associated with a specific model version (TAZ shapefiles, master networks, and assigned networks), the filename is comprised of three elements with a status optional: Data Type + Model Version + Date Modified (+ Dataset Status). For the Wasatch Front TDM shapfile, an example name would be TAZ_WFv9_20230721_Final.shp
 
