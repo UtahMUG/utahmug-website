@@ -1,0 +1,28 @@
+name: Email Notifications
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/**'  # This pattern watches for changes in the _posts folder and its subdirectories
+
+jobs:
+  send-email:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9.15'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt  # Assuming your Python script's dependencies are listed in requirements.txt
+
+      - name: Send Email Notification
+        run: |
+          python send-email.py
+In this updated YAML file:

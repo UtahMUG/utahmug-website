@@ -11,3 +11,5 @@ package.json
 *.gemspec
 .jekyll-cache
 vendor
+client_secrets.json
+token.json
