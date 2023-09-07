@@ -20,9 +20,8 @@ jobs:
           python-version: '3.9.15'
 
       - name: Install Dependencies
-        run: pip install -r requirements.txt  # Assuming your Python script's dependencies are listed in requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Send Email Notification
         run: |
           python send-email.py
-In this updated YAML file:
