@@ -3,7 +3,7 @@ name: Email Notifications
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - '_posts/**'  # This pattern watches for changes in the _posts folder and its subdirectories
 
