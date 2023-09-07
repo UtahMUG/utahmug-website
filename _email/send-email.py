@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 import base64
 
 # Email configuration
-sender_email = 'cday@wfrc.org'  # Replace with your Gmail email address
+sender_email = 'cday@wfrc.org'
 receiver_email = 'cday@wfrc.org'
 subject = "New Blog Post Alert"
 message_body  = """
@@ -35,7 +35,7 @@ if os.path.exists('token.json'):
 
 if not creds or not creds.valid:
     flow = InstalledAppFlow.from_client_secrets_file(
-        'client_secrets.json', SCOPES, redirect_uri = 'https://localhost:8000')
+        '_email/client_secrets.json', SCOPES, redirect_uri = 'https://localhost:8000')
     creds = flow.run_local_server(port=0)
 
 # Save the credentials for the next run

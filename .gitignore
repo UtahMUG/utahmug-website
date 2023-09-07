@@ -11,5 +11,4 @@ package.json
 *.gemspec
 .jekyll-cache
 vendor
-client_secrets.json
-.github/workflows/email.yaml
+_email/client_secrets.json
