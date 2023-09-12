@@ -1,7 +1,7 @@
 ---
 layout: post
-title: User of the Quarter
-categories: UserOfTheQuarter
+title: User Spotlight
+categories: UserSpotlight
 author: Natalia Brown
 ---
 
