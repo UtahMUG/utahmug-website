@@ -13,7 +13,7 @@ author: Natalia Brown
     <div class="header-content">
         <strong>Education:</strong> BS in Geography with a Certificate in GIS from the University of Utah <br><br/>
 
-        <strong>Current Employment:</strong> Wasatch Front Regional council (WFRC) <br><br/>
+        <strong>Current Employment:</strong> Wasatch Front Regional Council (WFRC) <br><br/>
 
         <strong>Greatest Interests about Travel Demand Modeling and Forecasting:</strong> Understanding at multiple scales how the regional transportation networks interact with each other and how the surrounding land uses impact them. Also, testing out different future scenarios and gaining insight for the planning process. <br><br/>
 
