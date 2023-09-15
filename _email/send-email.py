@@ -26,7 +26,7 @@ receiver_emails = [
     "ewing@arch.utah.edu",
     "fkiani@utah.gov",
     "future@xmission.com",
-    "gfarnsworth@utah.gov",
+    #"gfarnsworth@utah.gov", #asked to be removed from email list
     "gregmacfarlane@byu.edu",
     "guang.tian@utah.edu",
     "ihartman@jub.com",
