@@ -73,13 +73,14 @@ receiver_emails = [
     "wbennion@wfrc.org"
 ]
 
-subject = "New Blog Post Alert"
+#subject = "New Blog Post Alert"
+subject = "New Blog Post Alert - WF TDM Version 9 What\'s New Doc"
 message_body = """
 Hey Model Users! <br><br>
 
-A new blog post has been posted to the website. See <a href="https://utahmug.org">here</a>. <br><br>
+A new blog post relating to the release of the WF TDM Version 9 What's New doc has been posted to the website. Check it out <a href="https://utahmug.org">here</a>. <br><br>
 
-Thank you. <br><br>
+Thanks. <br><br>
 
 <span style="font-size: 6; font-style: italic;">If you do not want to recieve email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
 """
