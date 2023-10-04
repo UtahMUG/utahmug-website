@@ -42,7 +42,7 @@ receiver_emails = [
     "jsearle@wcecengineers.com",
     "jsonnen@jub.com",
     "jwadley@rideuta.com",
-    "kburns@utah.gov",
+    "KellyNjord@gmail.com", #"kburns@utah.gov" -- wrong email
     "kdoane@rideuta.com",
     "kordel.braley@aecom.com",
     "kshabani@camsys.com",
