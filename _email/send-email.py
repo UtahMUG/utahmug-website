@@ -78,7 +78,7 @@ subject = "New Blog Post Alert - Utah Transportation Conference"
 message_body = """
 Hey Model Users! <br><br>
 
-A new blog post about sessions relating to travel demand models at the Utah Transportation Conference has been posted to the website. Check it out <a href="https://utahmug.org">here</a>. <br><br>
+A new blog post about the sessions relating to travel demand models at the Utah Transportation Conference has been posted to the website. Check it out <a href="https://utahmug.org">here</a>. <br><br>
 
 Thanks. <br><br>
 
