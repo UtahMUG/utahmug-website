@@ -74,11 +74,11 @@ receiver_emails = [
 ]
 
 #subject = "New Blog Post Alert"
-subject = "New Blog Post Alert - WF TDM Version 9 What\'s New Doc"
+subject = "New Blog Post Alert - Utah Transportation Conference"
 message_body = """
 Hey Model Users! <br><br>
 
-A new blog post relating to the release of the WF TDM Version 9 What's New doc has been posted to the website. Check it out <a href="https://utahmug.org">here</a>. <br><br>
+A new blog post about sessions relating to travel demand models at the Utah Transportation Conference has been posted to the website. Check it out <a href="https://utahmug.org">here</a>. <br><br>
 
 Thanks. <br><br>
 
