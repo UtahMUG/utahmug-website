@@ -51,7 +51,7 @@ receiver_emails = [
     "kyle.cook@slcgov.com",
     "maren.outwater@rsginc.com",
     "mbrown@metroanalytics.com",
-    "mdelora@mountainland.org",
+    #"mdelora@mountainland.org", -- doesn't work here anymore
     "mlee@fivecounty.utah.gov",
     "mlin@hwlochner.com",
     "nataliabrown@utah.gov",
@@ -74,11 +74,11 @@ receiver_emails = [
 ]
 
 #subject = "New Blog Post Alert"
-subject = "New Blog Post Alert - Utah Transportation Conference"
+subject = "New Blog Post Alert - Job Opening--Senior Transportation Engineer and Modeler"
 message_body = """
 Hey Model Users! <br><br>
 
-A new blog post about the sessions relating to travel demand models at the Utah Transportation Conference has been posted to the website. Check it out <a href="https://utahmug.org">here</a>. <br><br>
+A new blog post about a job openeing at the ASPIRE Center, headquartered at Utah State University, has been posted to the website. The opening is for a Senior Transportation Engineer and Modeler (Research Engineer Principal). They will be responsible for leading transportation-related research projects, modeling and simulation activities, and contributing to the development of electrified and personalized transportation solutions. This role offers a unique opportunity to work on cutting-edge transportation innovations that will shape the future of the field... <br><br> Check out the rest <a href="https://utahmug.org">here</a>. <br><br>
 
 Thanks. <br><br>
 
