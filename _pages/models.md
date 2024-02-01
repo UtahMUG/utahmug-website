@@ -17,5 +17,8 @@ permalink: /models/
     <p><a href="../images/Summit-Wasatch.pdf" target="_blank">Summit-Wasatch Model</a></p>
     <p><a href="../images/USTM.pdf" target="_blank">Utah Statewide Model</a></p>
     <p><a href="../images/WasatchFront.pdf" target="_blank">Wasatch Front Model</a></p>
+
+    <h2>Model Documentation</h2>
+    <p><a href="https://wfrc.org/wftdm-docs/" target="_blank">Wasatch Front Model</a></p>
   </div>
 </div>
