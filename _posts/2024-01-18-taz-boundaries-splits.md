@@ -5,7 +5,7 @@ categories: WasatchFront BestPractices
 author: Bill Hereth
 ---
 
-At today's MUG meeting, Suzie and I presented on the TAZ Boundaries and TAZ Splits.
+At today's MUG meeting, Suzie Swim and I presented on the TAZ Boundaries and TAZ Splits.
 
 The slide presentation can be found [here](https://docs.google.com/presentation/d/1r-RvBGBuvtX1OMGBStltk5ZVkjRSFC3HolNGgSzC-bo/edit?usp=sharing).
 
