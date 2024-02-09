@@ -74,11 +74,11 @@ receiver_emails = [
 ]
 
 #subject = "New Blog Post Alert"
-subject = "New Blog Post Alert - Job Opening--Senior Transportation Engineer and Modeler"
+subject = "New Blog Post Alert - WF TDM v9 Documentation Slides"
 message_body = """
 Hey Model Users! <br><br>
 
-A new blog post about a job openeing at the ASPIRE Center, headquartered at Utah State University, has been posted to the website. The opening is for a Senior Transportation Engineer and Modeler (Research Engineer Principal). They will be responsible for leading transportation-related research projects, modeling and simulation activities, and contributing to the development of electrified and personalized transportation solutions. This role offers a unique opportunity to work on cutting-edge transportation innovations that will shape the future of the field... <br><br> Check out the rest <a href="https://utahmug.org">here</a>. <br><br>
+A new blog post about the WF TDM v9 What's New Discussion we had earlier this week has been posted. Downloads to the documentation slides are also included in the post.  <br><br> Check out the rest <a href="https://utahmug.org">here</a>. <br><br>
 
 Thanks. <br><br>
 
