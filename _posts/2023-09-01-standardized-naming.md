@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Standardized Naming for Common TDM Files
-categories: Cache Dixie Iron SummitWasatch UtahStatewide WasatchFront
+categories: BestPractices
 author: Bill Hereth
 ---
 

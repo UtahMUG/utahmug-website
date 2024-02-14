@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The official MUG website is born!
-categories: Website
+categories: 
 author: Chris Day
 ---
 

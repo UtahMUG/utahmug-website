@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TAZ Boundaries and TAZ Splits Presentation
-categories: WasatchFront BestPractices
+categories: BestPractices
 author: Bill Hereth
 ---
 

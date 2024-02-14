@@ -4,9 +4,9 @@ layout: default
 
 <div class="posts">
   {% for post in paginator.posts %}
-    <article class="post">
+    <article class="post" style="padding-left: 100px; padding-right: 100px;">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
+        <h3>{{ post.title }}</h3>
 
         <div>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>

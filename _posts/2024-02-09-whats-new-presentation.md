@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WF TDM v9 What's New Discussion
-categories: WasatchFront Documentation
+categories: WF-TDM
 author: Chris Day
 ---
 

@@ -20,7 +20,7 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <!--<a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>-->
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
 
             <div class="site-info">
               <h1 class="site-name"><!--<a href="{{ site.baseurl }}/">-->{{ site.name }}<!--</a>--></h1>
@@ -28,20 +28,38 @@
             </div>
 
             <nav>
-              <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/about-us">About Us</a>
-              <a href="{{ site.baseurl }}/models">Models</a>
-              <!--<a href="{{ site.baseurl }}/meetings">Meetings</a>-->
-              <a href="{{ site.baseurl }}/discussions">Discussions</a>
-              <a href="{{ site.baseurl }}/search">Search</a>
-              <a href="{{ site.baseurl }}/archive">Archive</a>
+              <a href="{{ site.baseurl }}/" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
+              <a href="{{ site.baseurl }}/meetings" {% if page.url contains '/meetings' %}class="active"{% endif %}>Meetings</a>
+              <a href="{{ site.baseurl }}/about-us" {% if page.url contains '/about-us' %}class="active"{% endif %}>About Us</a>
+              <a href="{{ site.baseurl }}/models" {% if page.url contains '/models' %}class="active"{% endif %}>Models</a>
+              <a href="{{ site.baseurl }}/resources" {% if page.url contains '/resources' %}class="active"{% endif %}>Resources</a>
+              <!--<a href="{{ site.baseurl }}/discussions">Discussions</a>-->
+              <a href="{{ site.baseurl }}/search" {% if page.url contains '/search' %}class="active"{% endif %}>Search</a>
+              <a href="{{ site.baseurl }}/archive" {% if page.url contains '/archive' %}class="active"{% endif %}>Archive</a>
             </nav>
           </header>
         </div>
       </div>
+      
 
       <div class="wrapper-main">
         <div id="main" role="main" class="container">
+          {% if page.url == '/' %}
+              <div class="content-wrapper">
+                <div class="text-wrapper">
+                  <h1 style="margin-top: -3px;">Utah Model Users Group</h1>
+                  <p>The Utah Model Users Group (UtahMUG) was re-established in January 2023 to exchange information about travel demand modeling and forecasting within the state of Utah. Please read the <a href="{{ site.baseurl }}/about-us">About Us</a> page for more information regarding our vision and goals.</p>
+                  <p>For more information regarding upcoming or previous meetings, please check out our <a href="{{ site.baseurl }}/meetings">Meetings</a> page. </p>
+                  <p>For questions or concerns, please submit them via our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeDrhBnu1zuc2MvGWOlZ1q85KSoE-NXFUH-Oc9id567GtV6Ow/viewform">Suggestion Box</a>.</p>
+                </div>
+                <div class="image-wrapper">
+                  <img src="https://www.culvercity.org/files/assets/public/v/1/images/transportation/mobility.png?w=1200" alt="Image Description">
+                </div>
+              </div>
+              <br> <!-- Line break -->
+              <hr> <!-- Horizontal line -->
+              <h2 style="text-align: center;"><em>Stay up to date with our latest posts!</em></h2>
+          {% endif %}
           {{ content }}
         </div>
       </div>
