@@ -1,6 +1,6 @@
 ---
 layout: post
-title: User Spotlight (September 2023)
+title: Suzie Swim (User Spotlight September 2023)
 categories: UserSpotlight
 author: Natalia Brown
 ---
