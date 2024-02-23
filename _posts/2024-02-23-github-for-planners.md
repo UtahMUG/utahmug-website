@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitHub for Planners
-categories: WF-TDM
+categories: BestPractices
 author: Bill Hereth
 ---
 
