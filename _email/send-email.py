@@ -74,11 +74,13 @@ receiver_emails = [
 ]
 
 #subject = "New Blog Post Alert"
-subject = "New Blog Post Alert - WF TDM v9 Documentation Slides"
+subject = "UtahMUG Blog Posts - GitHub for Planners / Cube Voygager Tips and Tricks"
 message_body = """
 Hey Model Users! <br><br>
 
-A new blog post about the WF TDM v9 What's New Discussion we had earlier this week has been posted. Downloads to the documentation slides are also included in the post.  <br><br> Check out the rest <a href="https://utahmug.org">here</a>. <br><br>
+Two new blog posts have been posted: <a href="https://utahmug.org/github-for-planners/">GitHub for Planners</a> and <a href="https://utahmug.org/cube-voyager-wiki/">Cube Voyager Tips and Tricks</a>. <br><br> 
+
+Or, simply check out the website homepage <a href="https://utahmug.org">here</a>. <br><br>
 
 Thanks. <br><br>
 
