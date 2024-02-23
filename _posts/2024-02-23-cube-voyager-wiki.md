@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extra, Extra...We now have a Cube Voyager Tips and Tricks wiki!!!
+title: EXTRA, EXTRA!...We now have a Cube Voyager Tips and Tricks wiki!!!
 categories: WF-TDM
 author: Bill Hereth
 ---
