@@ -82,13 +82,13 @@ receiver_emails = [
 ]
 
 #subject = "New Blog Post Alert"
-subject = "UtahMUG Blog Posts - UDOT Hiring in the Planning Analytics Team"
+subject = "UtahMUG Blog Posts - May 2024 Pre-Meeting Survey"
 message_body = """
 Hey Model Users! <br><br>
 
-A new blog post has been posted about <a href="https://utahmug.org/UDOT-Job_Posting/">UDOT hiring</a>. <br><br> 
+Our next MUG meeting will be next month! Please take the time to fill out a survey by the end of the day Monday April 8th to help us prepare. Survey details found on the <a href="https://utahmug.org/PreMeeting_Survey/">website</a>. <br><br> 
 
-Or, simply check out the website homepage <a href="https://utahmug.org">here</a>. <br><br>
+Also, feel free to browse everything else at the website homepage <a href="https://utahmug.org">here</a>. <br><br>
 
 Thanks. <br><br>
 
