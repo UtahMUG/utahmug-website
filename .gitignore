@@ -12,3 +12,4 @@ package.json
 .jekyll-cache
 vendor
 _email/client_secrets.json
+token.json
