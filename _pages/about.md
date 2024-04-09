@@ -38,13 +38,16 @@ As the Utah Model Users Group (MUG), we operate independently from, but in partn
 
 ## Executive Committee Members
 
-- Natalia Brown, UDOT - Chair ([email](mailto:nataliabrown@utah.gov))
-- Josh Alpers, Horrocks ([email](mailto:josha@horrocks.com))
-- Chris Day, Wasatch Front Regional Council ([email](mailto:cday@wfrc.org))
-- Craig Gresham, Fehr and Peers ([email](mailto:c.gresham@fehrandpeers.com))
-- Bill Hereth, Wasatch Front Regional Council ([email](mailto:bhereth@wfrc.org))
-- Ivan Hooper, Avenue Consultants ([email](mailto:ihooper@avenueconsultants.com))
-- Greg Macfarlane, Brigham Young University ([email](mailto:gregmacfarlane@byu.edu))
+| Member           | Organization                           | Email                                                                                      | Role             |
+|------------------|----------------------------------------|--------------------------------------------------------------------------------------------|------------------|
+| Josh Alpers      | Horrocks                               | [josha@horrocks.com](mailto:josha@horrocks.com)                                            | User Spotlighter |
+| Natalia Brown    | Utah Department of Transportation      | [nataliabrown@utah.gov](mailto:nataliabrown@utah.gov)                                      | Chair            |
+| Chris Day        | Wasatch Front Regional Council         | [cday@wfrc.org](mailto:cday@wfrc.org)                                                      | Website Guru     |
+| Craig Gresham    | Fehr and Peers                         | [c.gresham@fehrandpeers.com](mailto:c.gresham@fehrandpeers.com)                            |                  |
+| Bill Hereth      | Wasatch Front Regional Council         | [bhereth@wfrc.org](mailto:bhereth@wfrc.org)                                                | Vice-Chair       |
+| Ivan Hooper      | Avenue Consultants                     | [ihooper@avenueconsultants.com](mailto:ihooper@avenueconsultants.com)                      |                  |
+| Greg Macfarlane  | Brigham Young University               | [gregmacfarlane@byu.edu](mailto:gregmacfarlane@byu.edu)                                    |                  |
+
 
 ## Executive Committee (DRAFT)
 
