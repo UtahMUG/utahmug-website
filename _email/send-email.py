@@ -19,6 +19,7 @@ receiver_emails = [
     "blucas@hwlochner.com",
     "c.gresham@fehrandpeers.com",
     "callen@parametrix.com",
+    "cday@wfrc.org",
     "cworthen@wfrc.org",
     "cwichman@airsage.com",
     "dtempesta@camsys.com",
@@ -82,13 +83,13 @@ receiver_emails = [
 ]
 
 #subject = "New Blog Post Alert"
-subject = "UtahMUG Blog Post - Cache and WFRC Roadway Volume Forecasts"
+subject = "UtahMUG Blog Post - 2023 Utah Household Travel Survey--Accessing Data and Insights"
 message_body = """
 Hey Model Users! <br><br>
 
-Please check out our most recent blog post regarding Cache and WFRC roadway volume forecasts: https://utahmug.org/traffic-volume-forecasts/<br><br>
+Please check out our most recent blog post regarding an upcoming uDEST meeting: 2023 Utah Household Travel Survey--Accessing Data and Insights https://utahmug.org/udest-hts-access/<br><br>
 
-<span style="font-size: 6; font-style: italic;">If you do not want to recieve email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
+<span style="font-size: 6; font-style: italic;">If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
 """
 
 # Set up Gmail API
