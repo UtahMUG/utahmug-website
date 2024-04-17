@@ -45,4 +45,4 @@ This survey was sponsored by the:
 - Wasatch Front Regional Council
 
 
-For more info about uDEST, visit [www.udest.org](www.udest.org).
+For more info about uDEST, visit [www.udest.org](https://www.udest.org).
