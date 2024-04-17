@@ -17,37 +17,25 @@ In this meeting, we will discuss the following:
 - Deep dive into accessing the data in Google BigQuery and querying via SQL (restricted access to agencies only)
 - Discussion of resources to further explore the data (including obtaining access, data dictionary, etc)
 
-Important Links: 
+# Key Links
 
-- [Utah Moves Transportation Explorer](https://wfrc.shinyapps.io/2023-utah-household-travel-survey/)
-- [2023 Utah Moves Transportation Survey: Codebook and Dataset Guide](https://unifiedplan.org/2023-utah-household-travel-survey/core-dataset-guide)
+Dataset Guide and Survey Documentation (includes weighted summary tables for each variable):
 
-# ABOUT THE SURVEY
+### Core Survey
 
-The 2023 Utah Moves Transportation Survey was a statewide household travel survey (HTS) conducted in the Spring of 2023. The goal of the project was to collect day-to-day travel information from residents in the state to support travel demand modeling and other planning initiatives.
+- [Core Dataset Guide](https://unifiedplan.org/2023-utah-household-travel-survey/core-dataset-guide)
+- [Core Questionnaire](https://unifiedplan.org/2023-utah-household-travel-survey/documents/Utah2023HTSCoreQuestionnaire.pdf)
 
-## WHAT WAS THE GOAL OF THE 2023 UTAH MOVES TRANSPORTATION SURVEY?
+### Attitudinal / Long Distance Survey
 
-Our goal was to get a complete picture of regional transportation patterns to better plan for future improvements. The survey helps us understand how local roads, highways, public transportation, bike lanes, and sidewalks are used today, and how they can be improved to make travel better in the future.
+- [Supplemental Dataset Guide](https://unifiedplan.org/2023-utah-household-travel-survey/supplemental-dataset-guide)
+- [Supplemental Questionnaire](https://unifiedplan.org/2023-utah-household-travel-survey/documents/Utah2023HTSSupplementalQuestionnaire.pdf)
 
-## HOW WERE PARTICIPANTS SELECTED?
+### Explorer, Reports, and Memos
 
-Invited households were selected at random from across Utah. Additional participants were also recruited via universities in Utah to help plan for university specific travel.
-
-## WHO ADMINISTERED THE SURVEY?
-
-This survey was administered by Resource Systems Group (RSG).
-
-## WHO SPONSORED THE SURVEY?
-
-This survey was sponsored by the:
-
-- Utah Department of Transportation
-- Utah Transit Authority
-- Cache Metropolitan Planning Organization
-- Dixie Metropolitan Planning Organization
-- Mountainland Association of Governments
-- Wasatch Front Regional Council
+- [Data Explorer](https://wfrc.shinyapps.io/2023-utah-household-travel-survey/)
+- [Final Report](https://unifiedplan.org/2023-utah-household-travel-survey/documents/DRAFTUtah2023HTSFinalReport_March14.pdf)
+- [Weighting Memo](https://drive.google.com/file/d/1iABisULEb3y4r7d16ZiFmFliJ3jnN7mF/view?usp=sharing)
 
 
 For more info about uDEST, visit [www.udest.org](https://www.udest.org).
