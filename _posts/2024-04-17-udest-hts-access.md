@@ -13,9 +13,14 @@ If you would like to attend, RSVP to info@udest.org.
 In this meeting, we will discuss the following: 
 
 - Introduction to the survey scope and contents
-- Demo of the interactive R-Shiny web application to do ad hoc queries using a GUI interface ([Shiny App](https://wfrc.shinyapps.io/2023-utah-household-travel-survey/))
+- Demo of the interactive R-Shiny web application to do ad hoc queries using a GUI interface 
 - Deep dive into accessing the data in Google BigQuery and querying via SQL (restricted access to agencies only)
-- Discussion of resources to further explore the data (including obtaining access, data dictionary, etc ([Dataset Guide](https://unifiedplan.org/2023-utah-household-travel-survey/dataset-guide)))
+- Discussion of resources to further explore the data (including obtaining access, data dictionary, etc)
+
+Important Links: 
+
+- [Utah Moves Transportation Explorer](https://wfrc.shinyapps.io/2023-utah-household-travel-survey/)
+- [2023 Utah Moves Transportation Survey: Codebook and Dataset Guide](https://unifiedplan.org/2023-utah-household-travel-survey/core-dataset-guide)
 
 # ABOUT THE SURVEY
 
