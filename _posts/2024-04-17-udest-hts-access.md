@@ -17,25 +17,6 @@ In this meeting, we will discuss the following:
 - Deep dive into accessing the data in Google BigQuery and querying via SQL (restricted access to agencies only)
 - Discussion of resources to further explore the data (including obtaining access, data dictionary, etc)
 
-# Key Links
-
-Dataset Guide and Survey Documentation (includes weighted summary tables for each variable):
-
-### Core Survey
-
-- [Core Dataset Guide](https://unifiedplan.org/2023-utah-household-travel-survey/core-dataset-guide)
-- [Core Questionnaire](https://unifiedplan.org/2023-utah-household-travel-survey/documents/Utah2023HTSCoreQuestionnaire.pdf)
-
-### Attitudinal / Long Distance Survey
-
-- [Supplemental Dataset Guide](https://unifiedplan.org/2023-utah-household-travel-survey/supplemental-dataset-guide)
-- [Supplemental Questionnaire](https://unifiedplan.org/2023-utah-household-travel-survey/documents/Utah2023HTSSupplementalQuestionnaire.pdf)
-
-### Explorer, Reports, and Memos
-
-- [Data Explorer](https://wfrc.shinyapps.io/2023-utah-household-travel-survey/)
-- [Final Report](https://unifiedplan.org/2023-utah-household-travel-survey/documents/DRAFTUtah2023HTSFinalReport_March14.pdf)
-- [Weighting Memo](https://drive.google.com/file/d/1iABisULEb3y4r7d16ZiFmFliJ3jnN7mF/view?usp=sharing)
-
+**Travel Survey Resources:** [https://unifiedplan.org/household-travel-surveys/](https://unifiedplan.org/household-travel-surveys/)
 
 For more info about uDEST, visit [www.udest.org](https://www.udest.org).
