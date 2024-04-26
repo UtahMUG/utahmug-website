@@ -45,3 +45,4 @@ The following scenarios are included in the map:
 | 2032 Needs-Based | Represents roadway and transit network with RTP Phase 1 Needed Projects and matching socioeconomics forecasts for 2032.                                           |
 | 2042 Needs-Based | Represents roadway and transit network with RTP Phase 2 Needed Projects and matching socioeconomics forecasts for 2042.                                           |
 | 2050 Needs-Based | Represents roadway and transit network with RTP Phase 3 Needed Projects and matching socioeconomics forecasts for 2050.                                           |
+| 2050 Needs-Based MAG | Represents roadway and transit network with RTP Phase 3 MAG Needed Projects and matching socioeconomics forecasts for 2050.                                           |
