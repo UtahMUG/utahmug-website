@@ -22,7 +22,7 @@ Version 9.0.1 (April 2024) of the travel demand model was used to prepare the da
 
 Additionally, after selecting a roadway segment, there are useful factors and details available by clicking *Calculation Details* at the bottom of the sidebar.
 
-Corresponding roadway volume forecasts can be found [here](https://unifiedplan.org/traffic-volume-map/) and socioeconomic forecasts can be found [here](https://unifiedplan.org/utah-household-job-forecast-map/).
+Corresponding roadway volume forecasts can be found [here](https://unifiedplan.org/traffic-volume-map/). Socioeconomic forecasts can be found [here](https://unifiedplan.org/utah-household-job-forecast-map/).
 
 Click [here](https://docs.google.com/document/d/1tjFTe8QQNCKHnYoWfpLcwK1yqa1JXyohk-k6smRVRfQ) for details on the methodology and definitions.
 
