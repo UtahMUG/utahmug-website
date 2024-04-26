@@ -5,7 +5,7 @@ categories: WF-TDM
 author: Bill Hereth
 ---
 
-The Traffic Congestion Forecast Map (Factored V/C Ratios) Map has been updated. You can find this app at [https://wfrc.org/traffic-vc-map/](https://wfrc.org/traffic-vc-map/).
+The Traffic Congestion Forecast Map (Factored V/C Ratios) Map has been updated. You can find this app at **[https://wfrc.org/traffic-vc-map/](https://wfrc.org/traffic-vc-map/)**.
 
 
 This map provides an estimate of potentially congested areas for WFRC/MAG 2023 Regional Transportation Plan (RTP) scenarios.
@@ -19,6 +19,8 @@ The congestion is based on volume-to-capacity ratios using the following compone
 - Roadway capacities for each scenario as calculated in the travel demand model.
 
 Version 9.0.1 (April 2024) of the travel demand model was used to prepare the data for this web app. MAG Forecasts shown are currently draft.
+
+Additionally, after selecting a roadway segment, there are useful factors and details available by clicking *Calculation Details* at the bottom of the sidebar.
 
 Corresponding roadway volume forecasts can be found [here](https://unifiedplan.org/traffic-volume-map/) and socioeconomic forecasts can be found [here](https://unifiedplan.org/utah-household-job-forecast-map/).
 
