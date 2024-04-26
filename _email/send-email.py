@@ -6,9 +6,9 @@ from email.mime.text import MIMEText
 import base64
 
 # Email configuration
-sender_email = 'cday@wfrc.org'
+sender_email = 'bhereth@wfrc.org'
 receiver_emails = [
-    #"bhereth@wfrc.org",
+    #"bhereth@wfrc.org"#,
     #"andyli@wfrc.org",
     #"austin.feula@wcg.us",
     #"awilding@utah.gov",
@@ -83,11 +83,11 @@ receiver_emails = [
 ]
 
 #subject = "New Blog Post Alert"
-subject = "UtahMUG Blog Post - WF TDM Version 9.0.1 Official Release"
+subject = "UtahMUG Blog Post - Updated Wasatch Front Traffic Congestion Forecast Map"
 message_body = """
 Hey Model Users! <br><br>
 
-The Wasatch Front Travel Demand Model (WF TDM) version 9.0.1 has been officially released. Check it out at https://utahmug.org/v901-release/<br><br>
+The Wasatch Front Traffic Congestion Forecast (Factored V/C Ratios) Map has been updated. Check out info at https://utahmug.org/traffic-vc-map/<br><br>
 
 <span style="font-size: 6; font-style: italic;">If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
 """
