@@ -8,7 +8,6 @@ import base64
 # Email configuration
 sender_email = 'bhereth@wfrc.org'
 receiver_emails = [
-    "bhereth@wfrc.org",
     "andyli@wfrc.org",
     "austin.feula@wcg.us",
     "awilding@utah.gov",
@@ -83,11 +82,17 @@ receiver_emails = [
 ]
 
 #subject = "New Blog Post Alert"
-subject = "UtahMUG Blog Post - Washington County Traffic Volume Forecasts"
+subject = "UtahMUG Agenda Posted - May 2024 Meeting"
 message_body = """
-Hey Model Users! <br><br>
+Hey Model Users! <br/><br/>
 
-The Washington County Traffic Volume forecasts are now available. Check out info at https://utahmug.org/traffic-volume-forecasts-dixie/<br><br>
+Our next meeting is fast approaching!<br/><br/>
+
+The agenda has been posted to our website. Check it out at https://utahmug.org/meeting5/<br/><br/>
+
+Join us next Thursday, May 9, at 10:00 am either in-person at WFRC or virtually.<br/><br/>
+
+If you need the calendar invite resent, let me know.<br/><br/>
 
 <span style="font-size: 6; font-style: italic;">If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
 """
