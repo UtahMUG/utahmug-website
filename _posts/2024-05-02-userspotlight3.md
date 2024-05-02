@@ -8,7 +8,7 @@ author: Josh Alpers
 <div class="header">
     <div class="header-image">
         <p style="font-size: 22pt; font-weight: bold;">CHARLES ALLEN</p>
-        <img src="../images/Charles.JPG" width="200px" alt="Charles Allen" />
+        <img src="../images/Charles.jpg" width="200px" alt="Charles Allen" />
     </div>
     <div class="header-content">
         <strong>Education:</strong> Brigham Young University, BS, MS Civil Engineering <br><br/>
@@ -20,7 +20,6 @@ author: Josh Alpers
         <strong>Valuable Resources, Tools or Software:</strong> He admires the online GIS tools our MPO friends have created to summarize model inputs and outputs. They are a great resource for looking at the big picture. <br><br/>
 
         <strong>Hobbies and Interests:</strong> He enjoys hiking and playing board games with his kids, and chainsawing. He took up skiing four years ago and it’s been fun to discover why people are so crazy about it. <br><br/> 
-
 
     </div>
 </div>
