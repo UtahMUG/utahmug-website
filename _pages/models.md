@@ -15,7 +15,7 @@ permalink: /models/
     <p><a href="../images/Dixie.pdf" target="_blank">Dixie Model</a></p>
     <p><a href="../images/Iron.pdf" target="_blank">Iron Model</a></p>
     <p><a href="../images/Summit-Wasatch.pdf" target="_blank">Summit-Wasatch Model</a></p>
-    <p><a href="../images/USTM.pdf" target="_blank">Utah Statewide Model</a></p>
+    <p><a href="../images/USTM.pdf" target="_blank">0_Utah Statewide Model</a></p>
     <p><a href="../images/WasatchFront.pdf" target="_blank">Wasatch Front Model</a></p>
 
     <h2>Model Documentation</h2>
