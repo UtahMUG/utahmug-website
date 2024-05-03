@@ -6,93 +6,96 @@ from email.mime.text import MIMEText
 import base64
 
 # Email configuration
-sender_email = 'cday@wfrc.org'
+sender_email = 'bhereth@wfrc.org'
 receiver_emails = [
-    'cday@wfrc.org',
-    "andyli@wfrc.org",
-    "austin.feula@wcg.us",
-    "awilding@utah.gov",
-    "bbrady@summitcounty.org",
-    "ben.swanson@wcg.us",
-    "bgranberg@wfrc.org",
-    "bhereth@wfrc.org",
-    "blucas@hwlochner.com",
-    "c.gresham@fehrandpeers.com",
-    "callen@parametrix.com",
-    "cworthen@wfrc.org",
-    "cwichman@airsage.com",
-    "dtempesta@camsys.com",
-    "dbassett@avenueconsultants.com",
-    "erasband@utah.gov",
-    "eray@rideuta.com",
-    "ewing@arch.utah.edu",
-    "fhossain@parametrix.com",
-    "fkiani@utah.gov",
-    "future@xmission.com",
-    "gregmacfarlane@byu.edu",
-    "guang.tian@utah.edu",
-    "ikilpatrick@parametrix.com",
-    "ihartman@jub.com",
-    "ihooper@avenueconsultants.com",
-    "imanuel.aswandi@aecom.com",
-    "isaac.gardner@cachecounty.gov",
-    "jay.evans@rsginc.com",
-    "jayson@horrocks.com",
-    "jeff.gilbert@cachecounty.org",
-    "jeff.mortimer@sunrise-eng.com",
-    "jjohn@parametrix.com",
-    "jlocquiao@rideuta.com",
-    "josha@horrocks.com",
-    "jreynolds@wfrc.org",
-    "jsearle@wcecengineers.com",
-    "jshadewald@hntb.com",
-    "jsonnen@jub.com",
-    "jwadley@rideuta.com",
-    "KellyNjord@gmail.com", #"kburns@utah.gov" -- wrong email
-    "kdoane@rideuta.com",
-    "keith.hangland@teralytics.net",
-    "kordel.braley@aecom.com",
-    "kshabani@camsys.com",
-    "ktohinaka@parametrix.com",
-    "kvonarath@utah.gov",
-    "kyle.cook@slcgov.com",
-    "maren.outwater@rsginc.com",
-    "mbrown@metroanalytics.com",
-    "mlee@fivecounty.utah.gov",
-    "mshah@utah.gov",
-    "mlin@hwlochner.com",
-    "nataliabrown@utah.gov",
-    "ngayer@fivecounty.utah.gov",
-    "nwiberg@fivecounty.utah.gov",
-    "patrick.singleton@usu.edu",
-    "pukar.bhandari@outlook.com",
-    "reldredge@avenueconsultants.com",
-    "rerickson@ironcounty.net",
-    "rkohler@airsage.com",
-    "sarah.hinners@utah.edu",
-    "seliot@mountainland.org",
-    "sswim@wfrc.org",
-    "stephen.tuttle@rsginc.com",
-    "t.baird@fehrandpeers.com",
-    "thereth@mountainland.org",
-    "tknowlton@wfrc.org",
-    "utahmug@gmail.com",
-    "vkornala@jub.com",
-    "wbennion@wfrc.org"
+    #"andyli@wfrc.org",
+    #"austin.feula@wcg.us",
+    #"awilding@utah.gov",
+    #"bbrady@summitcounty.org",
+    #"ben.swanson@wcg.us",
+    #"bgranberg@wfrc.org",
+    "bhereth@wfrc.org"#,
+    #"blucas@hwlochner.com",
+    #"c.gresham@fehrandpeers.com",
+    #"callen@parametrix.com",
+    #"cday@wfrc.org",
+    #"cworthen@wfrc.org",
+    #"cwichman@airsage.com",
+    #"dtempesta@camsys.com",
+    #"dbassett@avenueconsultants.com",
+    #"erasband@utah.gov",
+    #"eray@rideuta.com",
+    #"ewing@arch.utah.edu",
+    #"fhossain@parametrix.com",
+    #"fkiani@utah.gov",
+    #"future@xmission.com",
+    #"gregmacfarlane@byu.edu",
+    #"guang.tian@utah.edu",
+    #"ikilpatrick@parametrix.com",
+    #"ihartman@jub.com",
+    #"ihooper@avenueconsultants.com",
+    #"imanuel.aswandi@aecom.com",
+    #"isaac.gardner@cachecounty.gov",
+    #"jay.evans@rsginc.com",
+    #"jayson@horrocks.com",
+    #"jeff.gilbert@cachecounty.org",
+    #"jeff.mortimer@sunrise-eng.com",
+    #"jjohn@parametrix.com",
+    #"jlillywhite@mountainland.org",
+    #"jlocquiao@rideuta.com",
+    #"josha@horrocks.com",
+    #"jreynolds@wfrc.org",
+    #"jsearle@wcecengineers.com",
+    #"jshadewald@hntb.com",
+    #"jsonnen@jub.com",
+    #"jwadley@rideuta.com",
+    #"KellyNjord@gmail.com", #"kburns@utah.gov" -- wrong email
+    #"kdoane@rideuta.com",
+    #"keith.hangland@teralytics.net",
+    #"kordel.braley@aecom.com",
+    #"kshabani@camsys.com",
+    #"ktohinaka@parametrix.com",
+    #"kvonarath@utah.gov",
+    #"kyle.cook@slcgov.com",
+    #"maren.outwater@rsginc.com",
+    #"mbrown@metroanalytics.com",
+    #"mlee@fivecounty.utah.gov",
+    #"mshah@utah.gov",
+    #"mlin@hwlochner.com",
+    #"nataliabrown@utah.gov",
+    #"ngayer@fivecounty.utah.gov",
+    #"nwiberg@fivecounty.utah.gov",
+    #"patrick.singleton@usu.edu",
+    #"pukar.bhandari@outlook.com",
+    #"reldredge@avenueconsultants.com",
+    #"rerickson@ironcounty.net",
+    #"rkohler@airsage.com",
+    #"sarah.hinners@utah.edu",
+    #"seliot@mountainland.org",
+    #"sswim@wfrc.org",
+    #"stephen.tuttle@rsginc.com",
+    #"t.baird@fehrandpeers.com",
+    #"thereth@mountainland.org",
+    #"tknowlton@wfrc.org",
+    #"utahmug@gmail.com",
+    #"vkornala@jub.com",
+    #"wbennion@wfrc.org"
 ]
 
 #subject = "New Blog Post Alert"
-subject = "UtahMUG Blog Posts - UDOT Hiring in the Planning Analytics Team"
+subject = "UtahMUG Agenda Posted - May 2024 Meeting"
 message_body = """
-Hey Model Users! <br><br>
+Hey Model Users! <br/><br/>
 
-A new blog post has been posted about <a href="https://utahmug.org/UDOT-Job_Posting/">UDOT hiring</a>. <br><br> 
+Our next meeting is fast approaching!<br/><br/>
 
-Or, simply check out the website homepage <a href="https://utahmug.org">here</a>. <br><br>
+The agenda has been posted to our website. Check it out at https://utahmug.org/meeting5/<br/><br/>
 
-Thanks. <br><br>
+Join us next Thursday, May 9, at 10:00 am either in-person at WFRC or virtually.<br/><br/>
 
-<span style="font-size: 6; font-style: italic;">If you do not want to recieve email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
+If you need the calendar invite resent, let me know.<br/><br/>
+
+<span style="font-size: 6; font-style: italic;">If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
 """
 
 # Set up Gmail API
@@ -104,8 +107,8 @@ if os.path.exists('token.json'):
 
 if not creds or not creds.valid:
     flow = InstalledAppFlow.from_client_secrets_file(
-        '_email/client_secrets.json', SCOPES, redirect_uri='https://localhost:8000')
-    creds = flow.run_local_server(port=0)
+        '_email/client_secrets.json', SCOPES, redirect_uri='http://localhost/8080') #maybe 8000
+    creds = flow.run_local_server(port=8080)
 
 # Save the credentials for the next run
 with open('token.json', 'w') as token:

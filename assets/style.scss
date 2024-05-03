@@ -68,18 +68,6 @@ h2 {
   //color: #006EA0;
 }
 
-@media (min-width: 769px){
-	.post h2::before, .post h2::after {
-	    content: "";
-	    display: inline-block;
-	    vertical-align: middle;
-	    width: 46px;
-	    height: 1px;
-	    background: rgb(192, 211, 218);
-	    margin: 0px 30px;
-	}
-}
-
 h3 {
   font-size: 20px;
   font-weight: 450;
