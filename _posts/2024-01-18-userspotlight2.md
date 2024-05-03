@@ -12,7 +12,9 @@ author: Josh Alpers
     </div>
     <div class="header-content">
         <strong>Education:</strong> BS in Civil Engineering from Brigham Young University <br><br/>
-
+		
+		<strong>Current Employment:</strong> Horrocks - Traffic Engineer <br><br/>
+		
         <strong>Greatest Interests about Travel Demand Modeling and Forecasting:</strong> The ability to forecast the future. <br><br/>
 
         <strong>Favorite Modeling Project(s):</strong> I spent about seven years or more working on West Davis Corridor EIS.  That's the project I really learned how to use the WFRC/MAG Travel Demand Model. <br><br/>

@@ -12,7 +12,9 @@ author: Josh Alpers
     </div>
     <div class="header-content">
         <strong>Education:</strong> Brigham Young University, BS, MS Civil Engineering <br><br/>
-
+		
+		<strong>Current Employment:</strong> Parametrix - Transportation Engineer <br><br/>
+		
         <strong>Greatest Interests about Travel Demand Modeling and Forecasting:</strong> Forecasting is the foundation of so many projects that leads to multi-million-dollar decisions. Yet, it’s an imperfect science and the accuracy of its outputs are more akin to long-range weather forecasting than we would like to admit. He enjoys the challenge of taking imprecise inputs and assumptions and communicating results. <br><br/>
 
         <strong>Favorite Modeling Project(s):</strong> Park City TMP - Had to build their own Park City model from scratch, develop zones and land use statistics, and develop dynamic routing in Vissim. Fun scenarios such as gateway corridors and emergency evacuation. <br><br/>

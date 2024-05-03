@@ -12,7 +12,9 @@ author: Josh Alpers
     </div>
     <div class="header-content">
         <strong>Education:</strong> Arizona State University, BS, MS Urban Planning and GIS <br><br/>
-
+		
+		<strong>Current Employment:</strong> Dixie MPO - Transportation Planning Manager <br><br/>
+		
         <strong>Greatest Interests about Travel Demand Modeling and Forecasting:</strong> The fact that it provides planners like me with the most accurate method of seeing the future. Without it, we might still be looking at crystal balls to make our planning decisions. <br><br/>
 
         <strong>Favorite Modeling Project(s):</strong> Favorite? Probably not, but the most important: Northern Corridor Expressway in Washington County. This roadway project has had more analysis hours in modeling than I have working hours in my professional career. <br><br/>
