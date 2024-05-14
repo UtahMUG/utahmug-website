@@ -72,7 +72,7 @@ The population and employment forecasts module display a subset of the official 
 
 # Unified Plan Projects Module
 
-The Unified Plan projects module display a subset of the official plan within the app.
+The Unified Plan projects module display a subset of the official plan within the app. Each project in the map is clickable for more detailed information.
 
 <table>
     <tr>
