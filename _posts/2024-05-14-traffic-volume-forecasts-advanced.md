@@ -7,7 +7,7 @@ author: Bill Hereth
 
 The *Advanced Version* of the roadway volume forecasts is now live and can be accessed at [https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/). This update integrates comprehensive socio-economic data and project details from the 2023 transportation plans into the traffic volume map.
 
-This version introduces two new modules within the app: socioeconomic forecasts and Unified Plan Projects. Both modules provide statewide data.
+The *Advanced Version* introduces two new modules within the app: socioeconomic forecasts and Unified Plan Projects. Both modules provide statewide data.
 
 In this blog post, we'll revisit the features and data offered by these two modules, providing you with insights into their functionality and applications.
 
