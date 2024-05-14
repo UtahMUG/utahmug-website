@@ -7,9 +7,9 @@ author: Bill Hereth
 
 The *Advanced Version* of the roadway volume forecasts is now live and can be accessed at [https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/). This update integrates comprehensive socio-economic data and project details from the 2023 transportation plans into the traffic volume map.
 
-The *Advanced Version* introduces two new modules within the app: socioeconomic forecasts and Unified Plan Projects. Both modules provide statewide data.
+The *Advanced Version* introduces two new modules within the app: socioeconomic forecasts and Unified Plan Projects. Both modules provide statewide data. The household and jobs data comes from the [Utah Household and Job Forecast Viewer](https://unifiedplan.org/utah-household-job-forecast-map/). The project data comes from [Utah's Unified Transportation Plan 2023-2050](https://experience.arcgis.com/experience/e2b10d6141cc4d91900f783dbdeefed5/).
 
-In this blog post, we'll revisit the features and data offered by these two modules, providing you with insights into their functionality and applications.
+In this blog post, we'll revisit the features and data offered by these two modules, providing you with a description of their functionality within the traffic volume map.
 
 To access the *Advanced Version*, click on 'View Advanced Version' in the top header, as shown here:
 
