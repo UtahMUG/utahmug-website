@@ -27,7 +27,7 @@ The population and employment forecasts module display a subset of the official 
 <table>
     <tr>
         <td style="vertical-align: top; width:35%;">
-            <img src="../images/traffic-volume-map-advanced-version-modules-popemp.png" alt="Pop/Emp Forecast Sidebar" width="800px;"/>
+            <img src="../images/traffic-volume-map-advanced-version-modules-popemp.png" alt="Pop/Emp Forecast Sidebar"/>
         </td>
         <td style="vertical-align: top;">
             <p><strong>1:</strong> Click this button to toggle on and off the traffic volume layer.</p>
