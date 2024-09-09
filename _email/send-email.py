@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 import base64
 
 # Email configuration
-sender_email = 'cday@wfrc.org'
+sender_email = 'bhereth@wfrc.org'
 receiver_emails = [
     #"andyli@wfrc.org",
     #"austin.feula@wcg.us",
@@ -14,11 +14,11 @@ receiver_emails = [
     #"bbrady@summitcounty.org",
     #"ben.swanson@wcg.us",
     #"bgranberg@wfrc.org",
-    #"bhereth@wfrc.org",
+    "bhereth@wfrc.org"#,
     #"blucas@hwlochner.com",
     #"c.gresham@fehrandpeers.com",
     #"callen@parametrix.com",
-    "cday@wfrc.org"#,
+    #"cday@wfrc.org",
     #"cworthen@wfrc.org",
     #"cwichman@airsage.com",
     #"dtempesta@camsys.com",
@@ -84,11 +84,11 @@ receiver_emails = [
 ]
 
 #subject = "New Blog Post Alert"
-subject = "UtahMUG Blog Post Alert: Job Posting"
+subject = "UtahMUG Blog Post Alert: MUG Meeting Agenda"
 message_body = """
 
 
-Five County Association of Governments is hiring a data scientist. Check out more details at <a href="https://utahmug.org/FiveCounty-Job_Posting/">https://utahmug.org/FiveCounty-Job_Posting/</a><br/><br/>
+The agenda for the MUG meeting this Thursday has been posted. Check out more details at <a href="https://utahmug.org/meeting6/">https://utahmug.org/meeting6/</a><br/><br/>
 
 <span style="font-size: 6; font-style: italic;">If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
 """
