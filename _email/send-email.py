@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 import base64
 
 # Email configuration
-sender_email = 'bhereth@wfrc.org'
+sender_email = 'cday@wfrc.org'
 receiver_emails = [
     #"andyli@wfrc.org",
     #"austin.feula@wcg.us",
@@ -14,11 +14,11 @@ receiver_emails = [
     #"bbrady@summitcounty.org",
     #"ben.swanson@wcg.us",
     #"bgranberg@wfrc.org",
-    "bhereth@wfrc.org"#,
+    #"bhereth@wfrc.org",
     #"blucas@hwlochner.com",
     #"c.gresham@fehrandpeers.com",
     #"callen@parametrix.com",
-    #"cday@wfrc.org",
+    "cday@wfrc.org"#,
     #"cworthen@wfrc.org",
     #"cwichman@airsage.com",
     #"dtempesta@camsys.com",
@@ -51,7 +51,7 @@ receiver_emails = [
     #"jwadley@rideuta.com",
     #"KellyNjord@gmail.com", #"kburns@utah.gov" -- wrong email
     #"kdoane@rideuta.com",
-    #"keith.hangland@teralytics.net",
+    #"keith.hangland@bentley.com",
     #"kordel.braley@aecom.com",
     #"kshabani@camsys.com",
     #"ktohinaka@parametrix.com",
@@ -84,10 +84,11 @@ receiver_emails = [
 ]
 
 #subject = "New Blog Post Alert"
-subject = "UtahMUG Blog Post Alert: Traffic Volume Map ADVANCED VERSION Now Available"
+subject = "UtahMUG Blog Post Alert: Job Posting"
 message_body = """
 
-The Advanced Version of the <a href="https://unifiedplan.org/traffic-volume-map/">traffic volume map</a> is now live. For more information, visit the blog post at <a href="https://utahmug.org/traffic-volume-forecasts-advanced/">https://utahmug.org/traffic-volume-forecasts-advanced/</a><br/><br/>
+
+Five County Association of Governments is hiring a data scientist. Check out more details at <a href="https://utahmug.org/FiveCounty-Job_Posting/">https://utahmug.org/FiveCounty-Job_Posting/</a><br/><br/>
 
 <span style="font-size: 6; font-style: italic;">If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
 """
