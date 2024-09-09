@@ -58,6 +58,7 @@ receiver_emails = [
     #"kvonarath@utah.gov",
     #"kyle.cook@slcgov.com",
     #"maren.outwater@rsginc.com",
+    #"melanie.bishop@fhueng.com",
     #"mbrown@metroanalytics.com",
     #"mlee@fivecounty.utah.gov",
     #"mshah@utah.gov",
@@ -83,17 +84,10 @@ receiver_emails = [
 ]
 
 #subject = "New Blog Post Alert"
-subject = "UtahMUG Agenda Posted - May 2024 Meeting"
+subject = "UtahMUG Blog Post Alert: Traffic Volume Map ADVANCED VERSION Now Available"
 message_body = """
-Hey Model Users! <br/><br/>
 
-Our next meeting is fast approaching!<br/><br/>
-
-The agenda has been posted to our website. Check it out at https://utahmug.org/meeting5/<br/><br/>
-
-Join us next Thursday, May 9, at 10:00 am either in-person at WFRC or virtually.<br/><br/>
-
-If you need the calendar invite resent, let me know.<br/><br/>
+The Advanced Version of the <a href="https://unifiedplan.org/traffic-volume-map/">traffic volume map</a> is now live. For more information, visit the blog post at <a href="https://utahmug.org/traffic-volume-forecasts-advanced/">https://utahmug.org/traffic-volume-forecasts-advanced/</a><br/><br/>
 
 <span style="font-size: 6; font-style: italic;">If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
 """
