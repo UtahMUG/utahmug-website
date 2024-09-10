@@ -5,7 +5,7 @@ categories: Cache-TDM WF-TDM
 author: Bill Hereth
 ---
 
-Official Cache County and WFRC area roadway volume forecasts can now be found on the new statewide web map at [https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/). This new website will host the forecasts for all agencies statewide.
+Official Cache County and WFRC area roadway volume forecasts can now be found on the new statewide web map at [https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/){:target="_blank"}. This new website will host the forecasts for all agencies statewide.
 
 WFRC forecasts corresponding to the 2023 RTP were released on February 28, 2024. Cache County forecasts were released on April 10, 2024. Additional areas will be added as they are available.
 

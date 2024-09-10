@@ -12,7 +12,7 @@ So you want to know whenever something new is posted to [utahmug.org](utahmug.or
  3. Click the *Add feed* button.
  4. Search *utahmug.org*
  5. Click *Follow*.
- 6. Add this extension: [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp).
+ 6. Add this extension: [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp){:target="_blank"}.
  7. Pin to toolbar.
 
 You should be good to go!

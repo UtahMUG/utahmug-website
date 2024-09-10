@@ -5,7 +5,7 @@ categories: WF-TDM
 author: Bill Hereth
 ---
 
-The Traffic Congestion Forecast Map (Factored V/C Ratios) Map has been updated. You can find this app at **[https://wfrc.org/traffic-vc-map/](https://wfrc.org/traffic-vc-map/)**.
+The Traffic Congestion Forecast Map (Factored V/C Ratios) Map has been updated. You can find this app at **[https://wfrc.org/traffic-vc-map/](https://wfrc.org/traffic-vc-map/){:target="_blank"}**.
 
 
 This map provides an estimate of potentially congested areas for WFRC/MAG 2023 Regional Transportation Plan (RTP) scenarios.
