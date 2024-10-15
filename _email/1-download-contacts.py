@@ -65,8 +65,15 @@ else:
                         print(f'Name: {name}, Email: {email}, Label: {label_name}')
                     break
 
+# Define the file path for the contacts CSV
+csv_file_path = '_email/contacts.csv'
+
+# Delete the file if it already exists
+if os.path.exists(csv_file_path):
+    os.remove(csv_file_path)
+
 # Save contacts to CSV
-with open('_email/contacts.csv', mode='w', newline='') as file:
+with open(csv_file_path, mode='w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(['Name', 'Email', 'Label'])  # Include label in the header
     writer.writerows(contact_list)
