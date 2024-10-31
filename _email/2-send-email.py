@@ -16,11 +16,16 @@ receiver_emails = contacts_mug['Email'].tolist()
 #receiver_emails = ['cday@wfrc.org']
 
 #subject = "New Blog Post Alert"
-subject = "UtahMUG Blog Post Alert: MUG Meeting Agenda"
+subject = "The spooktacular v9.1.0 model"
 message_body = """
 
+🕸️🎃 Hello, Model Monsters! 🎃🕸️ <br/><br/>
 
-The agenda for the MUG meeting this Thursday has been posted. Check out more details at <a href="https://utahmug.org/meeting6/">https://utahmug.org/meeting6/</a><br/><br/>
+The spooktacular v9.1.0 model has officially risen from the lab! So don’t ghost on us—creep on over to our <a href="https://utahmug.org/v910-release/">blog post</a> and sink your teeth into the latest release details! <br/><br/>
+
+Have a fang-tastic Halloween! <br/><br/>
+
+🧛‍♂️🎃🕸️👻🧙‍♀️🎃👀🎃👻🧛‍♂️🎃🕸️<br/><br/>
 
 <span style="font-size: 6; font-style: italic;">If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
 """
