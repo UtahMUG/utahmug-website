@@ -16,16 +16,18 @@ receiver_emails = contacts_mug['Email'].tolist()
 #receiver_emails = ['cday@wfrc.org']
 
 #subject = "New Blog Post Alert"
-subject = "The spooktacular v9.1.0 model"
+subject = "Spuds, Stats, and Surveys—A Thanksgiving Treat!"
 message_body = """
 
-🕸️🎃 Hello, Model Monsters! 🎃🕸️ <br/><br/>
+🦃🍂 Hello, Mashed Potato Modelers! 🍂🦃 <br/><br/>
 
-The spooktacular v9.1.0 model has officially risen from the lab! So don’t ghost on us—creep on over to our <a href="https://utahmug.org/v910-release/">blog post</a> and sink your teeth into the latest release details! <br/><br/>
+We’re grateful to announce that the v9.1.0 validation report is hot out of the oven and ready for your review! 🥧 Dive into the delicious details <a href="https://wfrc.org/wftdm-docs/v9x/v910/validation/1-distribute.html">here</a> or view the <a href="https://utahmug.org/v910-release/">blog post</a>. <br/><br/> 
 
-Have a fang-tastic Halloween! <br/><br/>
+While you’re savoring the latest report, we’d love to hear how you’re using the new release. Please take a moment to fill out this <a href="https://forms.gle/oT8oET1yChgqpwbG7">survey</a> and share your thoughts—it’s the perfect side dish! The survey is also located on our <a href="https://utahmug.org/v910-survey/">website</a>. <br/><br/> 
 
-🧛‍♂️🎃🕸️👻🧙‍♀️🎃👀🎃👻🧛‍♂️🎃🕸️<br/><br/>
+Wishing you a bountiful Thanksgiving and a season full of data-driven success! <br/><br/>
+
+🦃🍁🥧🍂📊🦃🍁🥧🍂<br/><br/>
 
 <span style="font-size: 6; font-style: italic;">If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
 """
