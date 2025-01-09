@@ -17,6 +17,6 @@ In this meeting, we will discuss the following:
 - Deep dive into accessing the data in Google BigQuery and querying via SQL (restricted access to agencies only)
 - Discussion of resources to further explore the data (including obtaining access, data dictionary, etc)
 
-**Travel Survey Resources:** [https://unifiedplan.org/household-travel-surveys/](https://unifiedplan.org/household-travel-surveys/)
+**Travel Survey Resources:** [https://unifiedplan.org/household-travel-surveys/](https://unifiedplan.org/household-travel-surveys/){:target="_blank"}
 
 For more info about uDEST, visit [www.udest.org](https://www.udest.org).

@@ -19,6 +19,7 @@ title: Resources
  - [Kem C. Garner Policy Institute Demographics](https://gardner.utah.edu/demographics/) - Utah demographic estimates and population projections
  - [Population Data housed at Texas A&M](https://trerc.tamu.edu/data/population/) - easy interface for pulling County, MSA, and State historical data for anywhere in the country
  - [Employment (Bureau of Labor Statistics) Data housed at Texas A&M](https://trerc.tamu.edu/data/employment-bls/) - easy interface for pulling County, MSA, and State historical data for anywhere in the country
+ - [Household and Job Viewer](https://unifiedplan.org/utah-household-job-forecast-map/) - This app shows the distribution of population, households, and employment by major sector, annually through 2050.
 
 
 

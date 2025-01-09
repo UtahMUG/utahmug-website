@@ -5,9 +5,9 @@ categories: Apps
 author: Bill Hereth
 ---
 
-The *Advanced Version* of the roadway volume forecasts is now live and can be accessed at [https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/). This update integrates two modules into the traffic volume map: household/job forecasts and project details from the 2023 transportation plans.
+The *Advanced Version* of the roadway volume forecasts is now live and can be accessed at [https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/){:target="_blank"}. This update integrates two modules into the traffic volume map: household/job forecasts and project details from the 2023 transportation plans.
 
-The household and jobs data comes from the [Utah Household and Job Forecast Viewer](https://unifiedplan.org/utah-household-job-forecast-map/). The project data comes from [Utah's Unified Transportation Plan 2023-2050](https://experience.arcgis.com/experience/e2b10d6141cc4d91900f783dbdeefed5/).
+The household and jobs data comes from the [Utah Household and Job Forecast Viewer](https://unifiedplan.org/utah-household-job-forecast-map/){:target="_blank"}. The project data comes from [Utah's Unified Transportation Plan 2023-2050](https://experience.arcgis.com/experience/e2b10d6141cc4d91900f783dbdeefed5/){:target="_blank"}.
 
 In this blog post, we'll revisit the features and data offered by these two modules, providing you with a description of their functionality within the traffic volume map.
 
