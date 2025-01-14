@@ -8,7 +8,7 @@ author: Josh Alpers
 <div class="header">
     <div class="header-image">
         <p style="font-size: 22pt; font-weight: bold;">PUKAR BHANDARI</p>
-        <img src="../images/Pukar Bhandari.jpg" width="200px" alt="Pukar Bhandari" />
+        <img src="../images/Pukar.jpg" width="200px" alt="Pukar Bhandari" />
     </div>
     <div class="header-content">
         <strong>Education:</strong> MS City & Metropolitan Planning - University of Utah <br><br/>
