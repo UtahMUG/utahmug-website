@@ -8,7 +8,7 @@ author: Josh Alpers
 <div class="header">
     <div class="header-image">
         <p style="font-size: 22pt; font-weight: bold;">ISAAC GARDNER</p>
-        <img src="../images/Isaac.jpg" width="200px" alt="Isaac Gardner" />
+        <img src="../images/Isaac.JPG" width="200px" alt="Isaac Gardner" />
     </div>
     <div class="header-content">
         <strong>Education:</strong> BS Public Policy and Administration - BYU-I and Arkansas State <br><br/>
