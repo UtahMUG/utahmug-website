@@ -13,40 +13,30 @@ Please direct specific questions for a given roadway segment based on the area t
 
 <hr/>
 
-<strong>Natalia Brown, UDOT<strong>
-
-nataliabrown@utah.gov
+<strong>Natalia Brown, UDOT<strong> -- <a href="mailto:nataliabrown@utah.gov">nataliabrown@utah.gov</a>
 
 [https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/){:target="_blank"}
 
 <hr/>
 
-<strong>Suzie Swim, WFRC</strong>
-
-sswim@wfrc.org
+<strong>Suzie Swim, WFRC</strong> -- <a href="mailto:sswim@wfrc.org">sswim@wfrc.org</a>
 
 [https://unifiedplan.org/traffic-volume-map/?county=saltlake](https://unifiedplan.org/traffic-volume-map/?county=saltlake){:target="_blank"}
 
 <hr/>
 
-<strong>Jared Lillywhite, MAG</strong>
-
-jlillywhite@mountainland.org
+<strong>Jared Lillywhite, MAG</strong> -- <a href="mailto:jlillywhite@mountainland.org">jlillywhite@mountainland.org</a>
 
 [https://unifiedplan.org/traffic-volume-map/?county=utah](https://unifiedplan.org/traffic-volume-map/?county=utah){:target="_blank"}
 
 <hr/>
 
-<strong>Jeff Gilbert, Cache MPO</strong>
-
-jeff.gilbert@cachecounty.gov
+<strong>Jeff Gilbert, Cache MPO</strong> -- <a href="mailto:jeff.gilbert@cachecounty.gov">jeff.gilbert@cachecounty.gov</a>
 
 [https://unifiedplan.org/traffic-volume-map/?county=cache](https://unifiedplan.org/traffic-volume-map/?county=cache){:target="_blank"}
 
 <hr/>
 
-<strong>Nick Gayer, Dixie MPO</strong>
-
-ngayer@fivecounty.utah.gov
+<strong>Nick Gayer, Dixie MPO</strong> -- <a href="mailto:ngayer@fivecounty.utah.gov">ngayer@fivecounty.utah.gov</a>
 
 [https://unifiedplan.org/traffic-volume-map/?county=washington](https://unifiedplan.org/traffic-volume-map/?county=washington){:target="_blank"}
