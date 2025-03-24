@@ -11,17 +11,42 @@ This data in this map is for informational purposes and must be field verified p
 
 Please direct specific questions for a given roadway segment based on the area the segment is located in to the following individuals:
 
-Natalia Brown, UDOT
+<hr/>
+
+<strong>Natalia Brown, UDOT<strong>
+
 nataliabrown@utah.gov
 
-Suzie Swim, WFRC
+https://unifiedplan.org/traffic-volume-map/
+
+<hr/>
+
+<strong>Suzie Swim, WFRC</strong>
+
 sswim@wfrc.org
 
-Jared Lillywhite, MAG
+https://unifiedplan.org/traffic-volume-map/?county=saltlake
+
+<hr/>
+
+<strong>Jared Lillywhite, MAG</strong>
+
 jlillywhite@mountainland.org
 
-Jeff Gilbert, Cache MPO
+https://unifiedplan.org/traffic-volume-map/?county=utah
+
+<hr/>
+
+<strong>Jeff Gilbert, Cache MPO</strong>
+
 jeff.gilbert@cachecounty.gov
 
-Nick Gayer, Dixie MPO
+https://unifiedplan.org/traffic-volume-map/?county=cache
+
+<hr/>
+
+<strong>Nick Gayer, Dixie MPO</strong>
+
 ngayer@fivecounty.utah.gov
+
+https://unifiedplan.org/traffic-volume-map/?county=washington
