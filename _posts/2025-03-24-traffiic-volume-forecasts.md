@@ -21,7 +21,7 @@ Please direct specific questions for a given roadway segment based on the area t
 
 <strong>Suzie Swim, WFRC</strong> -- <a href="mailto:sswim@wfrc.org">sswim@wfrc.org</a>
 
-[https://unifiedplan.org/traffic-volume-map/?county=saltlake](https://unifiedplan.org/traffic-volume-map/?county=saltlake){:target="_blank"}
+[https://unifiedplan.org/traffic-volume-map/?county=davis](https://unifiedplan.org/traffic-volume-map/?county=davis){:target="_blank"}
 
 <hr/>
 
