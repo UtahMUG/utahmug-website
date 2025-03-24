@@ -5,7 +5,7 @@ categories: Statewide
 author: Bill Hereth
 ---
 
-Official forecasts are now available for all roadway segments statewide at [https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/?county=Washington){:target="_blank"}. These forecasts are based on the latest updates to transportation plans as adopted in 2023.
+Official forecasts are now available for all roadway segments statewide at [https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/){:target="_blank"}. These forecasts are based on the latest updates to transportation plans as adopted in 2023.
 
 This data in this map is for informational purposes and must be field verified prior to being used on a project.
 
