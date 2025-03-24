@@ -13,7 +13,7 @@ Please direct specific questions for a given roadway segment based on the area t
 
 <hr/>
 
-<strong>Natalia Brown, UDOT<strong> -- <a href="mailto:nataliabrown@utah.gov">nataliabrown@utah.gov</a>
+<strong>Natalia Brown, UDOT</strong> -- <a href="mailto:nataliabrown@utah.gov">nataliabrown@utah.gov</a>
 
 [https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/){:target="_blank"}
 
