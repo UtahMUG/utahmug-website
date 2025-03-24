@@ -5,7 +5,7 @@ categories: Statewide
 author: Bill Hereth
 ---
 
-Official forecasts are now available for all roadway segments statewide at [https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/){:target="_blank"}. These forecasts are based on the latest updates to transportation plans as adopted in 2023.
+Official forecasts are now available for all roadway segments statewide at [https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/){:target="_blank"}{:target="_blank"}. These forecasts are based on the latest updates to transportation plans as adopted in 2023.
 
 This data in this map is for informational purposes and must be field verified prior to being used on a project.
 
@@ -17,7 +17,7 @@ Please direct specific questions for a given roadway segment based on the area t
 
 nataliabrown@utah.gov
 
-[https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/)
+[https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/){:target="_blank"}
 
 <hr/>
 
@@ -25,7 +25,7 @@ nataliabrown@utah.gov
 
 sswim@wfrc.org
 
-[https://unifiedplan.org/traffic-volume-map/?county=saltlake](https://unifiedplan.org/traffic-volume-map/?county=saltlake)
+[https://unifiedplan.org/traffic-volume-map/?county=saltlake](https://unifiedplan.org/traffic-volume-map/?county=saltlake){:target="_blank"}
 
 <hr/>
 
@@ -33,7 +33,7 @@ sswim@wfrc.org
 
 jlillywhite@mountainland.org
 
-[https://unifiedplan.org/traffic-volume-map/?county=utah](https://unifiedplan.org/traffic-volume-map/?county=utah)
+[https://unifiedplan.org/traffic-volume-map/?county=utah](https://unifiedplan.org/traffic-volume-map/?county=utah){:target="_blank"}
 
 <hr/>
 
@@ -41,7 +41,7 @@ jlillywhite@mountainland.org
 
 jeff.gilbert@cachecounty.gov
 
-[https://unifiedplan.org/traffic-volume-map/?county=cache](https://unifiedplan.org/traffic-volume-map/?county=cache)
+[https://unifiedplan.org/traffic-volume-map/?county=cache](https://unifiedplan.org/traffic-volume-map/?county=cache){:target="_blank"}
 
 <hr/>
 
@@ -49,4 +49,4 @@ jeff.gilbert@cachecounty.gov
 
 ngayer@fivecounty.utah.gov
 
-[https://unifiedplan.org/traffic-volume-map/?county=washington](https://unifiedplan.org/traffic-volume-map/?county=washington)
+[https://unifiedplan.org/traffic-volume-map/?county=washington](https://unifiedplan.org/traffic-volume-map/?county=washington){:target="_blank"}
