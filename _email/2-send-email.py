@@ -8,7 +8,7 @@ import base64
 
 
 # Email configuration
-sender_email = 'bhereth@wfrc.org'
+sender_email = 'utahmug@gmail.com'
 
 contacts = pd.read_csv('_email/contacts.csv')
 contacts_mug = contacts[contacts['Label'].str.contains('MUG List', na=False)]
@@ -16,20 +16,14 @@ contacts_mug = contacts[contacts['Label'].str.contains('MUG List', na=False)]
 receiver_emails = ['bhereth@wfrc.org']
 
 #subject = "New Blog Post Alert"
-subject = "MoMo 2025 - A New Conference for Transportation Modelers"
+subject = "Statewide Roadway Volume Forecasts Now Available"
 message_body = """
 
 <p>Dear Utah Model Users Group,</p>
 
-<p>I wanted to share some information about the <strong>Modeling Mobility Conference (MoMo 2025)</strong>, a new event that fills the current gap left by TRB's <strong>Tools of the Trade</strong> and <strong>Innovations in Travel Analysis and Planning</strong> conferences. With TRB pausing sponsorship of these practitioner-focused events, MoMo was created to provide a dedicated space for transportation modelers, planners, and data analysts to connect, share insights, and advance analytical tools for real-world decision-making.</p>
+<p>Official statewide traffic volume forecasts are now available for all roadway segments in Utah. To learn more, visit <a href="https://utahmug.org/traffiic-volume-forecasts/">https://utahmug.org/traffiic-volume-forecasts/</a>.</p>
 
-<p>The first MoMo conference will take place <strong>September 14-17, 2025, in Minneapolis, Minnesota</strong>, at the <strong>McNamara Alumni Center, University of Minnesota</strong>. Organized by a volunteer-led planning committee and sponsored by the <strong>Zephyr Foundation</strong>, the conference will feature sessions, workshops, and networking opportunities aimed at supporting the modeling community.</p>
-
-<p>For more details, including updates on the <strong>call for abstracts (due by February 21)</strong> and for future registration information, visit <a href="https://modelingmobility.org">ModelingMobility.org</a>.</p>
-
-<p>Best,<br/>
-Bill Hereth<br/>
-https://utahmug.org/momo/</p>
+<hr/>
 
 <span style="font-size: 6; font-style: italic;">If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
 """
