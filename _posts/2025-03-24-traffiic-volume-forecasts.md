@@ -17,7 +17,7 @@ Please direct specific questions for a given roadway segment based on the area t
 
 nataliabrown@utah.gov
 
-https://unifiedplan.org/traffic-volume-map/
+[https://unifiedplan.org/traffic-volume-map/](https://unifiedplan.org/traffic-volume-map/)
 
 <hr/>
 
@@ -25,7 +25,7 @@ https://unifiedplan.org/traffic-volume-map/
 
 sswim@wfrc.org
 
-https://unifiedplan.org/traffic-volume-map/?county=saltlake
+[https://unifiedplan.org/traffic-volume-map/?county=saltlake](https://unifiedplan.org/traffic-volume-map/?county=saltlake)
 
 <hr/>
 
@@ -33,7 +33,7 @@ https://unifiedplan.org/traffic-volume-map/?county=saltlake
 
 jlillywhite@mountainland.org
 
-https://unifiedplan.org/traffic-volume-map/?county=utah
+[https://unifiedplan.org/traffic-volume-map/?county=utah](https://unifiedplan.org/traffic-volume-map/?county=utah)
 
 <hr/>
 
@@ -41,7 +41,7 @@ https://unifiedplan.org/traffic-volume-map/?county=utah
 
 jeff.gilbert@cachecounty.gov
 
-https://unifiedplan.org/traffic-volume-map/?county=cache
+[https://unifiedplan.org/traffic-volume-map/?county=cache](https://unifiedplan.org/traffic-volume-map/?county=cache)
 
 <hr/>
 
@@ -49,4 +49,4 @@ https://unifiedplan.org/traffic-volume-map/?county=cache
 
 ngayer@fivecounty.utah.gov
 
-https://unifiedplan.org/traffic-volume-map/?county=washington
+[https://unifiedplan.org/traffic-volume-map/?county=washington](https://unifiedplan.org/traffic-volume-map/?county=washington)
