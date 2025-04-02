@@ -22,6 +22,6 @@ permalink: /models/
     <h2>Model Documentation</h2>
     <p><a href="https://wfrc.org/wftdm-docs/" target="_blank">Wasatch Front Model</a></p>
     <p><a href="https://docs.google.com/document/d/1YACqLThIzTFPVFirpDEbmpCWsYzpBMSenry-8j0a_ZU/edit?usp=sharing" target="_blank">Summit-Wasatch v2.2 - Validation Report</a></p>
-    <p><a href="https://docs.google.com/document/d/1RdpfMC31aGn1zKmtGFW0qNq8EFJNAlndGYY7Rj0EavA/edit?usp=sharing" target="_blank">Iron v1.9 - Validation Report</a></p>
+    <p><a href="https://docs.google.com/document/d/1RdpfMC31aGn1zKmtGFW0qNq8EFJNAlndGYY7Rj0EavA/edit?usp=sharing" target="_blank">Iron v1.0 - Validation Report</a></p>
   </div>
 </div>
