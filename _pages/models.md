@@ -21,5 +21,6 @@ permalink: /models/
 
     <h2>Model Documentation</h2>
     <p><a href="https://wfrc.org/wftdm-docs/" target="_blank">Wasatch Front Model</a></p>
+    <p><a href="https://docs.google.com/document/d/1YACqLThIzTFPVFirpDEbmpCWsYzpBMSenry-8j0a_ZU/edit?pli=1&tab=t.0" target="_blank">Summit-Wasatch v2.2 - Validation Report</a></p>
   </div>
 </div>
