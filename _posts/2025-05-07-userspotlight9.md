@@ -8,7 +8,7 @@ author: Josh Alpers
 <div class="header">
     <div class="header-image">
         <p style="font-size: 22pt; font-weight: bold;">ROB ELDREDGE</p>
-        <img src="../images/Rob.JPG" width="200px" alt="Rob Eldredge" />
+        <img src="../images/Rob.jpg" width="200px" alt="Rob Eldredge" />
     </div>
     <div class="header-content">
         <strong>Education:</strong> B.S. Economics George Washington University, M.A. Urban Planning Univeristy of California Los Angeles<br><br/>

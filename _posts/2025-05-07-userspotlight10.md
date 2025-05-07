@@ -8,7 +8,7 @@ author: Josh Alpers
 <div class="header">
     <div class="header-image">
         <p style="font-size: 22pt; font-weight: bold;">JARED LILLYWHITE</p>
-        <img src="../images/Jared.JPG" width="200px" alt="Jared Lillywhite" />
+        <img src="../images/Jared.jpg" width="200px" alt="Jared Lillywhite" />
     </div>
     <div class="header-content">
         <strong>Education:</strong> B.S. Civil Engineering - Brigham Young University<br><br/>
