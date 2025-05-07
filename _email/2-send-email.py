@@ -8,26 +8,22 @@ import base64
 
 
 # Email configuration
-sender_email = 'cday@wfrc.org'
+sender_email = 'utahmug@gmail.com'
 
 contacts = pd.read_csv('_email/contacts.csv')
 contacts_mug = contacts[contacts['Label'].str.contains('MUG List', na=False)]
-receiver_emails = contacts_mug['Email'].tolist()
-#receiver_emails = ['cday@wfrc.org']
+#receiver_emails = contacts_mug['Email'].tolist()
+receiver_emails = ['bhereth@wfrc.org']
 
 #subject = "New Blog Post Alert"
-subject = "Spuds, Stats, and Surveys—A Thanksgiving Treat!"
+subject = "Statewide Roadway Volume Forecasts Now Available"
 message_body = """
 
-🦃🍂 Hello, Mashed Potato Modelers! 🍂🦃 <br/><br/>
+<p>Dear Utah Model Users Group,</p>
 
-We’re grateful to announce that the v9.1.0 validation report is hot out of the oven and ready for your review! 🥧 Dive into the delicious details <a href="https://wfrc.org/wftdm-docs/v9x/v910/validation/1-distribute.html">here</a> or view the <a href="https://utahmug.org/v910-release/">blog post</a>. <br/><br/> 
+<p>Official statewide traffic volume forecasts are now available for all roadway segments in Utah. To learn more, visit <a href="https://utahmug.org/traffiic-volume-forecasts/">https://utahmug.org/traffiic-volume-forecasts/</a>.</p>
 
-While you’re savoring the latest report, we’d love to hear how you’re using the new release. Please take a moment to fill out this <a href="https://forms.gle/oT8oET1yChgqpwbG7">survey</a> and share your thoughts—it’s the perfect side dish! The survey is also located on our <a href="https://utahmug.org/v910-survey/">website</a>. <br/><br/> 
-
-Wishing you a bountiful Thanksgiving and a season full of data-driven success! <br/><br/>
-
-🦃🍁🥧🍂📊🦃🍁🥧🍂<br/><br/>
+<hr/>
 
 <span style="font-size: 6; font-style: italic;">If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
 """
