@@ -1,25 +1,41 @@
 ---
 layout: post
-title: MoMo 2025 – Early Bird Registration Ends June 1!
-categories: Conferences
-author: Bill Hereth
+title: "🗓️ Early Bird Registration Open for MoMo 2025 – Ends June 1!"
+author: Bill Hereth & Chris Day
+date: 2025-05-22
+categories: updates
 ---
 
-Dear Utah Model Users Group,
+We're excited to help spread the word about **MoMo 2025**, the upcoming **Modeling Mobility Conference** taking place **September 14–17, 2025**, at the McNamara Alumni Center on the University of Minnesota campus in Minneapolis.
 
-I hope this message finds you well. I’m reaching out with a friendly reminder about MoMo 2025: Connect, the Modeling Mobility Conference taking place September 14–17, 2025, at the McNamara Alumni Center at the University of Minnesota in Minneapolis.
+The **Modeling Mobility Conference** continues the legacy of previous notable transportation planning and modeling events, now serving as the premier forum for advancing travel models, transportation data, and quantitative analysis for transportation planning. MoMo 2025 will be held September 14-17, 2025, in Minneapolis, Minnesota at the beautiful McNamara Alumni Center on the University of Minnesota campus.
 
-This conference is a premier gathering for professionals working with travel models, transportation data, and analytical tools that support transportation planning. Whether you're building models, collecting data, or applying analysis to inform decisions—MoMo 2025 is for you.
+The theme of MoMo 2025 is **Connect**. The conference aims to connect academic, public, and private sector professionals to collaboratively solve data and model-related problems in transportation planning applications. The conference is oriented towards a **diverse audience of analytical professionals** who seek to connect the new techniques and data to planning processes. **If you have a passion for data and models used in transportation planning, this is the conference for you! **
 
-- Early Bird registration ends June 1, 2025
-- Conference dates: September 14–17, 2025
+---
 
-Download the flyer here: https://www.utahmug.org/assets/docs/MOMO2025_FlyerLetter_v3_EarlyBird.pdf
+## Key Details
 
-Learn more about the conference, registration, and hotel options at: https://modelingmobility.org
+- **Conference Dates:** September 14–17, 2025  
+- **Location:** Minneapolis, MN (McNamara Alumni Center)  
+- **Early Bird Registration Deadline:** **June 1, 2025**
 
-Please share with colleagues and contacts at city/county agencies, MPOs, UDOT, transit agencies, consulting firms, and others who might be interested. Let’s help spread the word throughout Utah!
+---
 
-Best regards,
-Bill Hereth
-Wasatch Front Regional Council
+## Download the Flyer
+
+We’ve posted the official flyer here: [Download the flyer (PDF)](https://www.utahmug.org/assets/docs/MOMO2025_FlyerLetter_v3_EarlyBird.pdf)
+
+---
+
+## Learn More
+
+For registration, hotel info, and full program details, visit: [https://modelingmobility.org](https://modelingmobility.org)
+
+---
+
+If you work with or know others in **MPOs, UDOT, city or county agencies, transit organizations, consulting firms**, or academic programs—please help spread the word!
+
+Let’s make sure Utah is well represented at MoMo 2025.
+
+---
