@@ -16,16 +16,25 @@ contacts_mug = contacts[contacts['Label'].str.contains('MUG List', na=False)]
 receiver_emails = ['bhereth@wfrc.org']
 
 #subject = "New Blog Post Alert"
-subject = "Statewide Roadway Volume Forecasts Now Available"
+subject = "UtahMUG Blog Post Alert: MoMo 2025 - Early Bird Registration Ends June 1!"
 message_body = """
 
-<p>Dear Utah Model Users Group,</p>
+    <p>Hi Utah Model User,</p>
 
-<p>Official statewide traffic volume forecasts are now available for all roadway segments in Utah. To learn more, visit <a href="https://utahmug.org/traffiic-volume-forecasts/">https://utahmug.org/traffiic-volume-forecasts/</a>.</p>
+    <p>A quick reminder that <strong>early bird registration</strong> for <a href="https://modelingmobility.org">2025 Modeling Mobility Conference</a> ends on <strong>June 1</strong>!</p>
 
-<hr/>
+    <p>The conference takes place <strong>September 14-17, 2025</strong>, in Minneapolis, and brings together transportation modelers, data analysts, and planners from across the country.</p>
 
-<span style="font-size: 6; font-style: italic;">If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</span>
+    <p>We've posted more details and the flyer on the Utah Model Users Group site: <a href="https://utahmug.org/momo-early-bird/">Read the announcement and download the flyer</a></p>
+
+    <p>Please feel free to forward this to others in your network who may be interested.</p>
+    
+    <p>Let's help Utah show up strong at MoMo 2025!</p>
+
+    <p>Thanks,<br>Bill Hereth<br>Wasatch Front Regional Council</p>
+
+    <p><em>To remove yourself from the UtahMUG list, please email Chris Day at <a href="mailto:cday@wfrc.org">cday@wfrc.org</a>.</em></p>
+
 """
 
 # Set up Gmail API
