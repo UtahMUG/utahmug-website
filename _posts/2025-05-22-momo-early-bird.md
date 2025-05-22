@@ -10,7 +10,7 @@ We're excited to help spread the word about **MoMo 2025**, the upcoming **Modeli
 
 The **Modeling Mobility Conference** continues the legacy of previous notable transportation planning and modeling events, now serving as the premier forum for advancing travel models, transportation data, and quantitative analysis for transportation planning. MoMo 2025 will be held September 14-17, 2025, in Minneapolis, Minnesota at the beautiful McNamara Alumni Center on the University of Minnesota campus.
 
-The theme of MoMo 2025 is **Connect**. The conference aims to connect academic, public, and private sector professionals to collaboratively solve data and model-related problems in transportation planning applications. The conference is oriented towards a **diverse audience of analytical professionals** who seek to connect the new techniques and data to planning processes. **If you have a passion for data and models used in transportation planning, this is the conference for you! **
+The theme of MoMo 2025 is **Connect**. The conference aims to connect academic, public, and private sector professionals to collaboratively solve data and model-related problems in transportation planning applications. The conference is oriented towards a **diverse audience of analytical professionals** who seek to connect the new techniques and data to planning processes. **If you have a passion for data and models used in transportation planning, this is the conference for you!**
 
 ---
 
