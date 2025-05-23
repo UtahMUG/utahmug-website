@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /resources/
+title: Utah Specific Resources
 ---
 
-# Utah Specific Resources
  - [Volume Traffic Map](https://unifiedplan.org/traffic-volume-map/) - This app shows traffic volume forecasts on Utah's highways and major roads.
  - [Household and Job Viewer](https://unifiedplan.org/utah-household-job-forecast-map/) - This app shows the distribution of population, households, and employment by major sector, annually through 2050.
  - [Model One-Pagers & Documentation](Model one-pagers and documentation) - This page contains one-pagers and documentation for the all of Utah's travel demand models.
