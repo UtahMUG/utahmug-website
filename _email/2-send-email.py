@@ -13,27 +13,17 @@ sender_email = 'utahmug@gmail.com'
 contacts = pd.read_csv('_email/contacts.csv')
 contacts_mug = contacts[contacts['Label'].str.contains('MUG List', na=False)]
 #receiver_emails = contacts_mug['Email'].tolist()
-receiver_emails = ['bhereth@wfrc.org']
+receiver_emails = ['cday@wfrc.org']
 
 #subject = "New Blog Post Alert"
-subject = "UtahMUG Blog Post Alert: MoMo 2025 - Early Bird Registration Ends June 1!"
+subject = "🚓 v911 Has Arrived – Call It In!"
 message_body = """
 
-    <p>Hi Utah Model User,</p>
+Hello Model Patrol, <br/><br/>
 
-    <p>A quick reminder that <strong>early bird registration</strong> for <a href="https://modelingmobility.org">2025 Modeling Mobility Conference</a> ends on <strong>June 1</strong>!</p>
+The sirens are blaring —  Version 911 of the WF TDM is officially on the scene. No need to call for backup — it's already faster, sharper, and ready to enforce some serious modeling order. For the official briefing, head straight to the <a href="https://utahmug.org/v911-release/">official blog post</a> on our website.<br/><br/>
 
-    <p>The conference takes place <strong>September 14-17, 2025</strong>, in Minneapolis, and brings together transportation modelers, data analysts, and planners from across the country.</p>
-
-    <p>We've posted more details and the flyer on the Utah Model Users Group site: <a href="https://utahmug.org/momo-early-bird/">Read the announcement and download the flyer</a></p>
-
-    <p>Please feel free to forward this to others in your network who may be interested.</p>
-    
-    <p>Let's help Utah show up strong at MoMo 2025!</p>
-
-    <p>Thanks,<br>Bill Hereth<br>Wasatch Front Regional Council</p>
-
-    <p><em>To remove yourself from the UtahMUG list, please email Chris Day at <a href="mailto:cday@wfrc.org">cday@wfrc.org</a>.</em></p>
+Stay safe out there. Model responsibly. 🕶️ <br/><br/>
 
 """
 
