@@ -12,8 +12,8 @@ sender_email = 'utahmug@gmail.com'
 
 contacts = pd.read_csv('_email/contacts.csv')
 contacts_mug = contacts[contacts['Label'].str.contains('MUG List', na=False)]
-#receiver_emails = contacts_mug['Email'].tolist()
-receiver_emails = ['cday@wfrc.org']
+receiver_emails = contacts_mug['Email'].tolist()
+#receiver_emails = ['cday@wfrc.org']
 
 #subject = "New Blog Post Alert"
 subject = "🚓 v911 Has Arrived – Call It In!"
@@ -21,7 +21,7 @@ message_body = """
 
 Hello Model Patrol, <br/><br/>
 
-The sirens are blaring —  Version 911 of the WF TDM is officially on the scene. No need to call for backup — it's already faster, sharper, and ready to enforce some serious modeling order. For the official briefing, head straight to the <a href="https://utahmug.org/v911-release/">official blog post</a> on our website.<br/><br/>
+The sirens are blaring —  Version 911 of the WF TDM is officially on the scene. No need to call for backup — it's already faster, sharper, and ready to enforce some serious modeling order. For the official briefing, head straight to the <a href="https://utahmug.org/v911-release/">blog post</a> on our website.<br/><br/>
 
 Stay safe out there. Model responsibly. 🕶️ <br/><br/>
 
