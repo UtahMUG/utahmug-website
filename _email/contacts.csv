@@ -1,5 +1,4 @@
 Name,Email,Label
-Kaveh Shabani,kshabani@camsys.com,MUG List
 Muna Shah,mshah@utah.gov,MUG List
 Radhika Bhandari,rbhandari@fivecounty.utah.gov,MUG List
 Nimish Dharmadhikari,NDharmadhikari@parametrix.com,MUG List
@@ -12,16 +11,13 @@ Charles Allen,CAllen@parametrix.com,MUG List
 Reid Ewing,ewing@arch.utah.edu,MUG List
 Greg Giaimo,Gregory.Giaimo@wsp.com,MUG List
 Mitch Skiles,mitch.skiles@horrocks.com,MUG List
-Imanuel Aswandi,imanuel.aswandi@aecom.com,MUG List
 Myron Lee,mlee@fivecounty.utah.gov,MUG List
 Reed Erickson,rerickson@ironcounty.net,MUG List
 Carl Miller,cmiller@summitcounty.org,MUG List
 Sarah Hinners,sarah.hinners@utah.edu,MUG List
 Wayne Bennion,wbennion@wfrc.org,MUG List
-Dave Bassett,dbassett@avenueconsultants.com,MUG List
 Jeff Mortimer,jeff.mortimer@sunrise-eng.com,MUG List
 Jennifer John,jjohn@parametrix.com,MUG List
-Brandon C. Brady,bbrady@summitcounty.org,MUG List
 Ethan Ray,eray@rideuta.com,MUG List
 Brad Lucas,blucas@hwlochner.com,MUG List
 future@xmission.com,future@xmission.com,MUG List
@@ -31,7 +27,6 @@ Fahmid Hossain,FHossain@parametrix.com,MUG List
 Jayson Cluff,Jayson@horrocks.com,MUG List
 Steve Tuttle,Stephen.Tuttle@rsginc.com,MUG List
 Michelle Bina,Michelle.Bina@wsp.com,MUG List
-Kordel Braley,kordel.braley@aecom.com,MUG List
 Kerry Doane,kdoane@rideuta.com,MUG List
 Jim Wadley,jwadley@rideuta.com,MUG List
 Jay Evans,jay.evans@rsginc.com,MUG List
@@ -48,34 +43,39 @@ Ian Kilpatrick,ian.kilpatrick@fhueng.com,MUG List
 Guang Tian,guang.tian@utah.edu,MUG List
 Patrick Singleton,patrick.singleton@usu.edu,MUG List
 Mike Brown (Work),mbrown@metroanalytics.com,MUG List
-Robert Kohler,rkohler@airsage.com,MUG List
-Greg Macfarlane,gregmacfarlane@byu.edu,MUG List
-Craig Gresham,c.gresham@fehrandpeers.com,MUG List
-Shawn Eliot,seliot@mountainland.org,MUG List
 Rob Eldredge,reldredge@avenueconsultants.com,MUG List
-Jeff Gilbert,Jeff.Gilbert@cachecounty.org,MUG List
-Tim Hereth,thereth@mountainland.org,MUG List
-Bert Granberg,bgranberg@wfrc.org,MUG List
-Chris Day,cday@wfrc.org,MUG List
-Suzie Swim,sswim@wfrc.org,MUG List
-Austin Feula,austin.feula@wcg.us,MUG List
-Natalia Brown,nataliabrown@utah.gov,MUG List
-Andrew Wilding,awilding@utah.gov,MUG List
-Jeremy Searle,jsearle@wcecengineers.com,MUG List
-Chad Worthen,cworthen@wfrc.org,MUG List
-Andy Li,andyli@wfrc.org,MUG List
-Nate Wiberg,nwiberg@fivecounty.utah.gov,MUG List
 Neda Kiani,fkiani@utah.gov,MUG List
-Josh Reynolds,jreynolds@wfrc.org,MUG List
-Khaisy Vonarath,kvonarath@utah.gov,MUG List
-Isaac Gardner,isaac.gardner@cachecounty.gov ,MUG List
-Bill Hereth,bhereth@wfrc.org,MUG List
-Kelly Njord,kellynjord@utah.gov ,MUG List
-Ben Swanson,ben.swanson@wcg.us,MUG List
-Ted Knowlton,ted@wfrc.org,MUG List
+Brandon C. Brady,bbrady@summitcounty.org,MUG List
+Robert Kohler,rkohler@airsage.com,MUG List
+Kaveh Shabani,kshabani@camsys.com,MUG List
 Mike Borger,mborger@airsage.com,MUG List
-Hayden Atchley,hatchley@utah.gov,MUG List
-Christian Prater,cprater@utah.gov,MUG List
-Jared Lillywhite,jlillywhite@mountainland.org,MUG List
 Eric Sweat,Eric.Sweat@kimley-horn.com,MUG List
 Vince Bernardin,vince@caliper.com,MUG List
+Christian Prater,cprater@utah.gov,MUG List
+Greg Macfarlane,gregmacfarlane@byu.edu,MUG List
+Shawn Eliot,seliot@mountainland.org,MUG List
+Bert Granberg,bgranberg@wfrc.org,MUG List
+Nate Wiberg,nwiberg@fivecounty.utah.gov,MUG List
+Austin Feula,austin.feula@wcg.us,MUG List
+Ted Knowlton,ted@wfrc.org,MUG List
+Craig Gresham,c.gresham@fehrandpeers.com,MUG List
+Tim Hereth,thereth@mountainland.org,MUG List
+Jared Lillywhite,jlillywhite@mountainland.org,MUG List
+Chris Day,cday@wfrc.org,MUG List
+Jeff Gilbert,Jeff.Gilbert@cachecounty.org,MUG List
+Dave Bassett,dbassett@avenueconsultants.com,MUG List
+Josh Reynolds,jreynolds@wfrc.org,MUG List
+Jeremy Searle,jsearle@wcecengineers.com,MUG List
+Chad Worthen,cworthen@wfrc.org,MUG List
+Isaac Gardner,isaac.gardner@cachecounty.gov ,MUG List
+Suzie Swim,sswim@wfrc.org,MUG List
+Andrew Wilding,awilding@utah.gov,MUG List
+Ben Swanson,ben.swanson@wcg.us,MUG List
+Bill Hereth,bhereth@wfrc.org,MUG List
+Hayden Atchley,hatchley@utah.gov,MUG List
+Khaisy Vonarath,kvonarath@utah.gov,MUG List
+Natalia Brown,nataliabrown@utah.gov,MUG List
+Andy Li,andyli@wfrc.org,MUG List
+Kelly Njord,kellynjord@utah.gov ,MUG List
+Kordel Braley,kordel.braley@aecom.com,MUG List
+Imanuel Aswandi,imanuel.aswandi@aecom.com,MUG List

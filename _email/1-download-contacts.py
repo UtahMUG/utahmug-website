@@ -10,6 +10,7 @@ import csv
 SCOPES = ['https://www.googleapis.com/auth/contacts.readonly']
 
 creds = None
+
 if os.path.exists('token.json'):
     creds = Credentials.from_authorized_user_file('token.json', SCOPES)
 

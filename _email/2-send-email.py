@@ -12,19 +12,14 @@ sender_email = 'utahmug@gmail.com'
 
 contacts = pd.read_csv('_email/contacts.csv')
 contacts_mug = contacts[contacts['Label'].str.contains('MUG List', na=False)]
-receiver_emails = contacts_mug['Email'].tolist()
-#receiver_emails = ['cday@wfrc.org']
+#receiver_emails = contacts_mug['Email'].tolist()
+receiver_emails = ['cday@wfrc.org']
 
 #subject = "New Blog Post Alert"
-subject = "🚓 v911 Has Arrived – Call It In!"
+subject = "New Blog Post Alert: WFRC is Hiring a Transportation Data Scientist"
 message_body = """
-
-Hello Model Patrol, <br/><br/>
-
-The sirens are blaring —  Version 911 of the WF TDM is officially on the scene. No need to call for backup — it's already faster, sharper, and ready to enforce some serious modeling order. For the official briefing, head straight to the <a href="https://utahmug.org/v911-release/">blog post</a> on our website.<br/><br/>
-
-Stay safe out there. Model responsibly. 🕶️ <br/><br/>
-
+<p>WFRC is looking for a full-time <strong>Transportation Data Scientist</strong> to join our Analytics Group. For the full blog post, visit <a href="https://utahmug.org/wfrc-job-opening/" target="_blank">https://utahmug.org/wfrc-job-opening/</a>.</p>
+<p><i>If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</i></p>
 """
 
 # Set up Gmail API
