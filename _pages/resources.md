@@ -1,8 +1,19 @@
 ---
 layout: page
 permalink: /resources/
-title: Resources
+title: Utah Specific Resources
 ---
+
+ - [Volume Traffic Map](https://unifiedplan.org/traffic-volume-map/) - This app shows traffic volume forecasts on Utah's highways and major roads.
+ - [Household and Job Viewer](https://unifiedplan.org/utah-household-job-forecast-map/) - This app shows the distribution of population, households, and employment by major sector, annually through 2050.
+ - [Model One-Pagers & Documentation](Model one-pagers and documentation) - This page contains one-pagers and documentation for the all of Utah's travel demand models.
+ - [2023 Utah Household Travel Survey Resources](https://unifiedplan.org/household-travel-surveys/)
+
+<br>
+
+----------------------------------------------
+
+# General Resources
 
 ### Travel Demand Model Practices
  - [Travel Forecasting Resource](https://tfresource.org) - a collection of best practices for travel demand forecasting and travel survey methods.
@@ -21,9 +32,11 @@ title: Resources
  - [Employment (Bureau of Labor Statistics) Data housed at Texas A&M](https://trerc.tamu.edu/data/employment-bls/) - easy interface for pulling County, MSA, and State historical data for anywhere in the country
  - [Household and Job Viewer](https://unifiedplan.org/utah-household-job-forecast-map/) - This app shows the distribution of population, households, and employment by major sector, annually through 2050.
 
+<br>
 
+----------------------------------------------
 
-### UtahMUG Blog Posts
+# Blog Posts
 <div id="archives">
   {% for category in site.categories %}
     {% unless category[0] == "Meetings" or category[0] == "UserSpotlight" %}
