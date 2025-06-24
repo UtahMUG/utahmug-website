@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're Hiring a Transportation Data Scientist at WFRC
+title: WFRC is Hiring a Transportation Data Scientist
 categories:
 author: Bill Hereth
 ---
