@@ -13,12 +13,13 @@ sender_email = 'utahmug@gmail.com'
 contacts = pd.read_csv('_email/contacts.csv')
 contacts_mug = contacts[contacts['Label'].str.contains('MUG List', na=False)]
 #receiver_emails = contacts_mug['Email'].tolist()
-receiver_emails = ['cday@wfrc.org']
+receiver_emails = ['bill.hereth@wfrc.utah.gov']
 
 #subject = "New Blog Post Alert"
-subject = "New Blog Post Alert: WFRC is Hiring a Transportation Data Scientist"
+subject = "New Blog Post Alert: Wasatch Front TDM ABM Framework"
 message_body = """
-<p>WFRC is looking for a full-time <strong>Transportation Data Scientist</strong> to join our Analytics Group. For the full blog post, visit <a href="https://utahmug.org/wfrc-job-opening/" target="_blank">https://utahmug.org/wfrc-job-opening/</a>.</p>
+<p>WFRC, MAG, UDOT, and UTA have released an ABM Implementation Framework outlining plans to integrate an Activity-Based Model into the Wasatch Front travel demand model.
+Read more at: <a href="https://utahmug.org/abm-framework/">https://utahmug.org/abm-framework/</a></p>
 <p><i>If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</i></p>
 """
 

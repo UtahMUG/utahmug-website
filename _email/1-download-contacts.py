@@ -66,6 +66,9 @@ else:
                         print(f'Name: {name}, Email: {email}, Label: {label_name}')
                     break
 
+# Sort the contact list alphabetically by name
+contact_list.sort(key=lambda x: x[0])  # x[0] is the name
+
 # Define the file path for the contacts CSV
 csv_file_path = '_email/contacts.csv'
 
