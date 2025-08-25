@@ -16,10 +16,10 @@ contacts_mug = contacts[contacts['Label'].str.contains('MUG List', na=False)]
 receiver_emails = ['bill.hereth@wfrc.utah.gov']
 
 #subject = "New Blog Post Alert"
-subject = "New Blog Post Alert: Wasatch Front TDM ABM Framework"
+subject = "UtahMUG September Meeting Agenda Now Available"
 message_body = """
-<p>WFRC, MAG, UDOT, and UTA have released an ABM Implementation Framework outlining plans to integrate an Activity-Based Model into the Wasatch Front travel demand model.
-Read more at: <a href="https://utahmug.org/abm-framework/">https://utahmug.org/abm-framework/</a></p>
+<p>The agenda for the UtahMUG September 11, 2025 meeting is now live! We’ll cover new approaches to model calibration, enhancements to CRT modeling, and provide statewide model updates.</p>
+<p>See full details here: <a href="https://utahmug.org/meeting9/">https://utahmug.org/meeting9/</a></p>
 <p><i>If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</i></p>
 """
 
