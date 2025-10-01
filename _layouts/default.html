@@ -114,7 +114,7 @@
                 if (!transform) computeDefaultTransform();
                 const coords = getImagePixelCoords(evt);
                 const latlon = applyTransform(transform, coords.px, coords.py);
-                const url = `https://www.google.com/maps/@${latlon.lat},${latlon.lon},12z`;
+                const url = `https://www.google.com/maps/@${latlon.lat},${latlon.lon},17z`;
                 window.open(url, '_blank');
               });
             })();
