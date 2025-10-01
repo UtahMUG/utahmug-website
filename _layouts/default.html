@@ -20,7 +20,105 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+            <div id="utah-avatar" class="site-avatar" style="position:relative; display:inline-block;">
+              <img id="utah-img" src="{{ site.baseurl }}/assets/images/utah-img.png" alt="Utah map" 
+                   style="width:140px; height:auto; display:block; cursor:crosshair;">
+              <div style="font-size:12px; margin-top:6px; color:#333;">
+              </div>
+            </div>
+            
+            <script>
+            (function(){
+              const img = document.getElementById('utah-img');
+              let transform = null;
+            
+              function getImagePixelCoords(evt) {
+                const rect = img.getBoundingClientRect();
+                const x = evt.clientX - rect.left;
+                const y = evt.clientY - rect.top;
+            
+                const displayW = rect.width;
+                const displayH = rect.height;
+                const intrinsicW = img.naturalWidth || displayW;
+                const intrinsicH = img.naturalHeight || displayH;
+            
+                const px = (x / displayW) * intrinsicW;
+                const py = (y / displayH) * intrinsicH;
+                return { px, py };
+              }
+            
+              function computeAffine(points) {
+                let AtA = [[0,0,0],[0,0,0],[0,0,0]];
+                let AtLat = [0,0,0];
+                let AtLon = [0,0,0];
+                for (const p of points) {
+                  const row = [p.px, p.py, 1];
+                  for (let r=0;r<3;r++){
+                    for (let c=0;c<3;c++){
+                      AtA[r][c] += row[r] * row[c];
+                    }
+                  }
+                  AtLat[0]+=row[0]*p.lat; AtLat[1]+=row[1]*p.lat; AtLat[2]+=row[2]*p.lat;
+                  AtLon[0]+=row[0]*p.lon; AtLon[1]+=row[1]*p.lon; AtLon[2]+=row[2]*p.lon;
+                }
+                function solve3(M,v){
+                  const A=[[M[0][0],M[0][1],M[0][2],v[0]],
+                           [M[1][0],M[1][1],M[1][2],v[1]],
+                           [M[2][0],M[2][1],M[2][2],v[2]]];
+                  for (let i=0;i<3;i++){
+                    let maxRow=i;
+                    for(let k=i+1;k<3;k++){
+                      if(Math.abs(A[k][i])>Math.abs(A[maxRow][i])) maxRow=k;
+                    }
+                    [A[i],A[maxRow]]=[A[maxRow],A[i]];
+                    if(Math.abs(A[i][i])<1e-12) return null;
+                    for(let k=i+1;k<3;k++){
+                      const f=A[k][i]/A[i][i];
+                      for(let j=i;j<4;j++) A[k][j]-=f*A[i][j];
+                    }
+                  }
+                  const x=[0,0,0];
+                  for(let i=2;i>=0;i--){
+                    let s=A[i][3];
+                    for(let j=i+1;j<3;j++) s-=A[i][j]*x[j];
+                    x[i]=s/A[i][i];
+                  }
+                  return x;
+                }
+                const pLat=solve3(AtA,AtLat);
+                const pLon=solve3(AtA,AtLon);
+                if(!pLat||!pLon) return null;
+                return {a_lat:pLat[0],b_lat:pLat[1],c_lat:pLat[2],
+                        a_lon:pLon[0],b_lon:pLon[1],c_lon:pLon[2]};
+              }
+            
+              function applyTransform(t, px, py){
+                return {
+                  lat: t.a_lat*px + t.b_lat*py + t.c_lat,
+                  lon: t.a_lon*px + t.b_lon*py + t.c_lon
+                };
+              }
+            
+              function computeDefaultTransform(){
+                const iw = img.naturalWidth;
+                const ih = img.naturalHeight;
+                const pts = [
+                  { px: 0,   py: 0,   lat: 41.992461, lon: -114.04004},
+                  { px: iw,  py: 0,   lat: 41.997323, lon: -109.05020},
+                  { px: iw,  py: ih,  lat: 36.999297, lon: -109.04550}
+                ];
+                transform = computeAffine(pts);
+              }
+            
+              img.addEventListener('click', function(evt){
+                if (!transform) computeDefaultTransform();
+                const coords = getImagePixelCoords(evt);
+                const latlon = applyTransform(transform, coords.px, coords.py);
+                const url = `https://www.google.com/maps/@${latlon.lat},${latlon.lon},12z`;
+                window.open(url, '_blank');
+              });
+            })();
+            </script>
 
             <div class="site-info">
               <h1 class="site-name"><!--<a href="{{ site.baseurl }}/">-->{{ site.name }}<!--</a>--></h1>
