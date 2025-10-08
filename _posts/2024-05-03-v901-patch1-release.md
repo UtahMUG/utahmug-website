@@ -5,7 +5,7 @@ categories: WF-TDM
 author: Chris Day
 ---
 
-A patch to the Wasatch Front Travel Demand Model (WF TDM) version 9.0.1 has been released. To access the new model, please visit the [WF TDM Official Releases Repository](https://github.com/WFRCAnalytics/WF-TDM-Official-Releases/releases/tag/v9.0.1-official){:target="_blank"}. If do not have access to the repository please request access by emailing Suzie Swim at sswim@wfrc.org or Tim Hereth at thereth@mountainland.org.
+A patch to the Wasatch Front Travel Demand Model (WF TDM) version 9.0.1 has been released. To access the new model, please visit the [WF TDM Official Releases Repository](https://github.com/WFRCAnalytics/WF-TDM-Official-Releases/releases/tag/v9.0.1-official){:target="_blank"}. If do not have access to the repository please request access by emailing Suzie Swim at sswim@wfrc.utah.gov or Tim Hereth at thereth@mountainland.org.
 
 The patch includes the following adjustments:
 
