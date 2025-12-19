@@ -16,10 +16,10 @@ receiver_emails = contacts_mug['Email'].tolist()
 #receiver_emails = ['chris.day@wfrc.utah.gov']
 
 #subject = "New Blog Post Alert"
-subject = "WF TDM v9.2.0 Release"
+subject = "January 2026 Meeting Agenda"
 message_body = """
-<p>Happy Friday!</p>
-<p>Version 9.2.0 of the Wasatch Front Travel Demand Model (WF TDM) has been released. See full details here: <a href="https://utahmug.org/v920-release/">https://utahmug.org/v920-release/</a></p>
+<p>Happy Friday,</p>
+<p>The agenda for the next UtahMUG meeting has been finalized! See full details here: <a href="https://utahmug.org/meeting10/">https://utahmug.org/meeting10/</a></p>
 <p><i>If you do not want to receive email updates, please let Chris Day know at chris.day@wfrc.utah.gov and he will take you off the list of recipients.</i></p>
 """
 
