@@ -42,9 +42,9 @@ As the Utah Model Users Group (MUG), we operate independently from, but in partn
 |------------------|-----------------------------------------|--------------------------------------------------------------------------------------------|-----------------------|
 | Josh Alpers      | Horrocks                                | [josha@horrocks.com](mailto:josha@horrocks.com)                                            | User Spotlighter      |
 | Natalia Brown    | Utah Department of Transportation       | [nataliabrown@utah.gov](mailto:nataliabrown@utah.gov)                                      | Chair                 |
-| Chris Day        | Wasatch Front Regional Council          | [cday@wfrc.org](mailto:cday@wfrc.org)                                                      | Website Guru          |
+| Chris Day        | Wasatch Front Regional Council          | [chris.day@wfrc.utah.gov](mailto:chris.day@wfrc.utah.gov)                                  | Website Guru          |
 | Craig Gresham    | Fehr and Peers                          | [c.gresham@fehrandpeers.com](mailto:c.gresham@fehrandpeers.com)                            |                       |
-| Bill Hereth      | Wasatch Front Regional Council          | [bhereth@wfrc.org](mailto:bhereth@wfrc.org)                                                | Vice-Chair            |
+| Bill Hereth      | Wasatch Front Regional Council          | [bill.hereth@wfrc.utah.gov](mailto:bill.hereth@wfrc.utah.gov)                              | Vice-Chair            |
 | Jared Lillywhite | Mountainland Association of Governments | [jlillywhite@magutah.gov](mailto:jlillywhite@magutah.gov)                                  | Half Time Coordinator |
 | Greg Macfarlane  | Brigham Young University                | [gregmacfarlane@byu.edu](mailto:gregmacfarlane@byu.edu)                                    |                       |
 

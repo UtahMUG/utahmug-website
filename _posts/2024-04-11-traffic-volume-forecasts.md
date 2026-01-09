@@ -13,4 +13,4 @@ The roadway forecasts are available for each phase of the respective transportat
 
 A future version of the map will include a view of socioeconomic and project data similar to the previous map.
 
-For WFRC area questions, please contact Suzie Swim at sswim@wfrc.org. For Cache County questions, contact Jeff Gilbert (Cache MPO) at Jeff.Gilbert@cachecounty.gov.
+For WFRC area questions, please contact Suzie Swim at sswim@wfrc.utah.gov. For Cache County questions, contact Jeff Gilbert (Cache MPO) at Jeff.Gilbert@cachecounty.gov.

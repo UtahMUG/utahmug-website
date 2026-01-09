@@ -12,15 +12,15 @@ sender_email = 'utahmug@gmail.com'
 
 contacts = pd.read_csv('_email/contacts.csv')
 contacts_mug = contacts[contacts['Label'].str.contains('MUG List', na=False)]
-#receiver_emails = contacts_mug['Email'].tolist()
-receiver_emails = ['bill.hereth@wfrc.utah.gov']
+receiver_emails = contacts_mug['Email'].tolist()
+#receiver_emails = ['chris.day@wfrc.utah.gov']
 
 #subject = "New Blog Post Alert"
-subject = "UtahMUG September Meeting Agenda Now Available"
+subject = "January 2026 Meeting Agenda"
 message_body = """
-<p>The agenda for the UtahMUG September 11, 2025 meeting is now live! We’ll cover new approaches to model calibration, enhancements to CRT modeling, and provide statewide model updates.</p>
-<p>See full details here: <a href="https://utahmug.org/meeting9/">https://utahmug.org/meeting9/</a></p>
-<p><i>If you do not want to receive email updates, please let Chris Day know at cday@wfrc.org and he will take you off the list of recipients.</i></p>
+<p>Happy Friday,</p>
+<p>The agenda for the next UtahMUG meeting has been finalized! See full details here: <a href="https://utahmug.org/meeting10/">https://utahmug.org/meeting10/</a></p>
+<p><i>If you do not want to receive email updates, please let Chris Day know at chris.day@wfrc.utah.gov and he will take you off the list of recipients.</i></p>
 """
 
 # Set up Gmail API

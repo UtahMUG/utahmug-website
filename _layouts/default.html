@@ -20,7 +20,65 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+            <div id="utah-avatar" class="site-avatar" style="position:relative; display:inline-block;">
+              <img id="utah-img" src="{{ site.baseurl }}/assets/images/utah-img.png" alt="Utah map" 
+                   style="width:140px; height:auto; display:block; cursor:crosshair;">
+              <div style="font-size:12px; margin-top:6px; color:#333;">
+              </div>
+            </div>
+            
+            <script>
+             (function(){
+               const img = document.getElementById('utah-img');
+             
+               // Define the four corners of the image in Web Mercator coordinates
+               const corners = {
+                 tl: {lat: 5160059, lon: -12695030}, // top-left
+                 tr: {lat: 5161204, lon: -12139391}, // top-right
+                 br: {lat: 4438953, lon: -12138847}, // bottom-right
+                 bl: {lat: 4439125, lon: -12695990}  // bottom-left
+               };
+             
+               // Get pixel coordinates relative to the image
+               function getImagePixelCoords(evt) {
+                 const rect = img.getBoundingClientRect();
+                 const x = evt.clientX - rect.left;
+                 const y = evt.clientY - rect.top;
+             
+                 const displayW = rect.width;
+                 const displayH = rect.height;
+                 const intrinsicW = img.naturalWidth || displayW;
+                 const intrinsicH = img.naturalHeight || displayH;
+             
+                 const px = (x / displayW) * intrinsicW;
+                 const py = (y / displayH) * intrinsicH;
+                 return { px, py };
+               }
+             
+               // Bilinear transform: map pixel (px, py) to lat/lon using all 4 corners
+               function applyBilinearTransform(px, py){
+                 const iw = img.naturalWidth;
+                 const ih = img.naturalHeight;
+                 const x = px / iw;
+                 const y = py / ih;
+             
+                 const lat = (1-x)*(1-y)*corners.tl.lat + x*(1-y)*corners.tr.lat + x*y*corners.br.lat + (1-x)*y*corners.bl.lat;
+                 const lon = (1-x)*(1-y)*corners.tl.lon + x*(1-y)*corners.tr.lon + x*y*corners.br.lon + (1-x)*y*corners.bl.lon;
+             
+                 return { lat, lon };
+               }
+             
+               // Click handler
+               img.addEventListener('click', function(evt){
+                 const coords = getImagePixelCoords(evt);
+                 const latlon = applyBilinearTransform(coords.px, coords.py);
+             
+                 const url = `https://atlas.utah.gov/?basemap=Hybrid&scale=1528&center=${latlon.lon}_${latlon.lat}`;
+                 window.open(url, '_blank');
+               });
+             
+             })();
+             </script>
 
             <div class="site-info">
               <h1 class="site-name"><!--<a href="{{ site.baseurl }}/">-->{{ site.name }}<!--</a>--></h1>

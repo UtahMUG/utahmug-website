@@ -19,7 +19,7 @@ Please direct specific questions for a given roadway segment based on the area t
 
 <hr/>
 
-<strong>Suzie Swim, WFRC</strong> -- <a href="mailto:sswim@wfrc.org">sswim@wfrc.org</a>
+<strong>Suzie Swim, WFRC</strong> -- <a href="mailto:sswim@wfrc.utah.gov">sswim@wfrc.utah.gov</a>
 
 [https://unifiedplan.org/traffic-volume-map/?county=davis](https://unifiedplan.org/traffic-volume-map/?county=davis){:target="_blank"}
 

@@ -19,7 +19,7 @@ We’re looking for someone **innovative**, **collaborative**, and **passionate 
 
 **First review of applicants:** July 10, 2025
 
-**To apply:** Email your resume + letter of interest to [kevrine@wfrc.org](mailto:kevrine@wfrc.org)  
+**To apply:** Email your resume + letter of interest to [kevrine@wfrc.utah.gov](mailto:kevrine@wfrc.utah.gov)  
 
 **Full details here:** [https://drive.google.com/file/d/1rBsXyRc607vv_H-s0RmoemuuPJfX2mto/view](https://drive.google.com/file/d/1rBsXyRc607vv_H-s0RmoemuuPJfX2mto/view){:target="_blank"}
 
