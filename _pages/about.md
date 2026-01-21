@@ -38,18 +38,19 @@ As the Utah Model Users Group (MUG), we operate independently from, but in partn
 
 ## Executive Committee Members
 
-| Member           | Organization                            | Email                                                                                      | Role                  |
-|------------------|-----------------------------------------|--------------------------------------------------------------------------------------------|-----------------------|
-| Josh Alpers      | Horrocks                                | [josha@horrocks.com](mailto:josha@horrocks.com)                                            | User Spotlighter      |
-| Natalia Brown    | Utah Department of Transportation       | [nataliabrown@utah.gov](mailto:nataliabrown@utah.gov)                                      | Chair                 |
-| Chris Day        | Wasatch Front Regional Council          | [chris.day@wfrc.utah.gov](mailto:chris.day@wfrc.utah.gov)                                  | Website Guru          |
-| Craig Gresham    | Fehr and Peers                          | [c.gresham@fehrandpeers.com](mailto:c.gresham@fehrandpeers.com)                            |                       |
-| Bill Hereth      | Wasatch Front Regional Council          | [bill.hereth@wfrc.utah.gov](mailto:bill.hereth@wfrc.utah.gov)                              | Vice-Chair            |
-| Jared Lillywhite | Mountainland Association of Governments | [jlillywhite@magutah.gov](mailto:jlillywhite@magutah.gov)                                  | Half Time Coordinator |
-| Greg Macfarlane  | Brigham Young University                | [gregmacfarlane@byu.edu](mailto:gregmacfarlane@byu.edu)                                    |                       |
+| Member           | Organization                            | Email                                                           | Role                  |
+|------------------|-----------------------------------------|-----------------------------------------------------------------|-----------------------|
+| Josh Alpers      | Horrocks                                | [josha@horrocks.com](mailto:josha@horrocks.com)                 | User Spotlighter      |
+| Tim Baird        | Fehr and Peers                          | [t.baird@fehrandpeers.com](mailto:t.baird@fehrandpeers.com)     |                       |
+| Natalia Brown    | Utah Department of Transportation       | [nataliabrown@utah.gov](mailto:nataliabrown@utah.gov)           |                       |
+| Chris Day        | Wasatch Front Regional Council          | [chris.day@wfrc.utah.gov](mailto:chris.day@wfrc.utah.gov)       | Communications Lead   |
+| Bill Hereth      | Wasatch Front Regional Council          | [bill.hereth@wfrc.utah.gov](mailto:bill.hereth@wfrc.utah.gov)   | Chair                 |
+| Tim Hereth       | Mountainland Association of Governments | [thereth@magutah.gov](mailto:thereth@magutah.gov)               | Vice-Chair            |
+| Jared Lillywhite | Mountainland Association of Governments | [jlillywhite@magutah.gov](mailto:jlillywhite@magutah.gov)       | Half-Time Lead        |
+| Greg Macfarlane  | Brigham Young University                | [gregmacfarlane@byu.edu](mailto:gregmacfarlane@byu.edu)         |                       |
 
 
-## Executive Committee (DRAFT)
+## Executive Committee
 
 The Utah Model Users Group (MUG) Executive Committee executes the priorities and order of business of MUG and manages the general course of operations in accordance with the MUG’s Vision, Objectives, and Goals. Input regarding modifications to MUG goals and objectives are solicited from general membership, considered by this committee, and then presented to MUG members for ratification.
 
@@ -59,22 +60,30 @@ The Executive Committee consists of a committee chair and members representing t
 
 The Chair leads the Executive Committee. In coordination and support from other members of the committee, the chair solicits agenda items for quarterly meetings, sets the agenda, conducts the meetings, and designates a note taker at each meeting, preferably from among the membership of the Executive Committee. The chair can delegate a portion of their responsibilities to any other member of the Executive Committee.
 
-The chair is nominated by the Interagency Modeling Technical Committee (IMTC) and ratified by MUG members and serves a term of two to three years.
+The chair is nominated by the IMTC and ratified by MUG members and serves a term of two years.
+
+**Vice-Chair**
+
+The Vice-Chair supports the Chair in their duties and assumes the role of Chair in their absence. 
+
+The Vice-Chair is nominated by the IMTC and ratified by MUG members and serves a term of two years. After two years, the vice-chair is typically nominated to become the chair, but this is not required.
+
+**Communications Lead**
+
+The Communications Lead provides support to the Executive Committee in (1) maintaining a mailing list; (2) creating and maintaining a MUG website, reference material archives, and any other digital communications platform; and (3) maintaining a digital blog or periodic newsletter. The Communications Lead is nominated by the Executive Committee chair and ratified by the Executive Committee members.
+
+**Half-Time Coordinator**
+
+The Half-Time Coordinator runs the half-time portion of MUG meetings. This includes creating an activity that is engaging to provide a nice break from the typical presentation format, coordinating any necessary materials or logistics, and leading the activity during the meeting. The Half-Time Coordinator is nominated by the Executive Committee chair and ratified by the Executive Committee members.
+
 
 **Members**
 
 Executive Committee members provide input and perspective based on the individual user role they represent, advise and assist the chair in their duties, and help solicit and gather information for the Chair with respect to quarterly meetings and for the Communications Committee with respect to mailing list, website and digital archives, and a blog or newsletter. 
 
-In addition to the Chair, the Executive Committee may consist of the following members:
+In addition to the Chair and Vice-Chair, the Executive Committee may consist of the following members:
 
-- One representative appointed from the Interagency Modeling Technical Committee (IMTC)
+- Additional representatives appointed from the IMTC, and then ratified by MUG members
 - One to three volunteered or solicited representatives from consultant users, as nominated by Executive Committee Chair, in consultation with IMTC, and then ratified by MUG members
 - One volunteered or solicited representative from academia, as nominated by Executive Committee Chair, in consultation with IMTC, and then ratified by MUG members
-- One representative appointed from the MUG Communications Committee
-
-## Communications Committee (DRAFT)
-
-The Communications Committee provides support to the Executive Committee in (1) maintaining a mailing list; (2) creating and maintaining a MUG website, reference material archives, and any other digital communications platform; and (3) maintaining a digital blog or periodic newsletter. The communications committee consists of any number of MUG members that are either from volunteers or solicitations. The Communications Committee chair and members are nominated by the Executive Committee chair and ratified by the Executive Committee members.
-
-
 
