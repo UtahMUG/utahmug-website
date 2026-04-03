@@ -4,9 +4,11 @@ title: About Us
 permalink: /about-us/
 ---
 
+## Mission
+Making travel demand models in Utah better through collaboration and shared learning.
 
 ## Vision
-As travel demand model users and colleagues in local governments, metropolitan planning organizations, transportation agencies, consultant firms, and educational institutions, we work together in an atmosphere of mutual respect and collaboration to inform, improve, and promote the science, art, and application of travel demand forecasting throughout the state of Utah.
+As travel demand model users and colleagues in local governments, metropolitan planning organizations, transportation agencies, consultant firms, and educational institutions, we foster a collaborative and respectful community that advances the practice of travel demand forecasting throughout Utah.
 
 As the Utah Model Users Group (MUG), we operate independently from, but in partnership with, the Interagency Modeling Technical Committee (IMTC) and Interagency Modeling Policy Committee (IMPC).
 
@@ -40,14 +42,14 @@ As the Utah Model Users Group (MUG), we operate independently from, but in partn
 
 | Member           | Organization                            | Email                                                           | Role                  |
 |------------------|-----------------------------------------|-----------------------------------------------------------------|-----------------------|
-| Josh Alpers      | Horrocks                                | [josha@horrocks.com](mailto:josha@horrocks.com)                 | User Spotlighter      |
-| Tim Baird        | Fehr and Peers                          | [t.baird@fehrandpeers.com](mailto:t.baird@fehrandpeers.com)     |                       |
+| Josh Alpers      | Horrocks                                | [josha@horrocks.com](mailto:josha@horrocks.com)                 | Notetaker             |
+| Tim Baird        | Fehr and Peers                          | [t.baird@fehrandpeers.com](mailto:t.baird@fehrandpeers.com)     | User Spotlighter      |
 | Natalia Brown    | Utah Department of Transportation       | [nataliabrown@utah.gov](mailto:nataliabrown@utah.gov)           |                       |
 | Chris Day        | Wasatch Front Regional Council          | [chris.day@wfrc.utah.gov](mailto:chris.day@wfrc.utah.gov)       | Communications Lead   |
 | Bill Hereth      | Wasatch Front Regional Council          | [bill.hereth@wfrc.utah.gov](mailto:bill.hereth@wfrc.utah.gov)   | Chair                 |
 | Tim Hereth       | Mountainland Association of Governments | [thereth@magutah.gov](mailto:thereth@magutah.gov)               | Vice-Chair            |
 | Jared Lillywhite | Mountainland Association of Governments | [jlillywhite@magutah.gov](mailto:jlillywhite@magutah.gov)       | Half-Time Lead        |
-| Greg Macfarlane  | Brigham Young University                | [gregmacfarlane@byu.edu](mailto:gregmacfarlane@byu.edu)         |                       |
+| Greg Macfarlane  | Brigham Young University                | [gregmacfarlane@byu.edu](mailto:gregmacfarlane@byu.edu)         | lunchiMUG Coordinator |
 
 
 ## Executive Committee
@@ -76,6 +78,13 @@ The Communications Lead provides support to the Executive Committee in (1) maint
 
 The Half-Time Coordinator runs the half-time portion of MUG meetings. This includes creating an activity that is engaging to provide a nice break from the typical presentation format, coordinating any necessary materials or logistics, and leading the activity during the meeting. The Half-Time Coordinator is nominated by the Executive Committee chair and ratified by the Executive Committee members.
 
+**Notetaker**
+
+The Notetaker documents MUG meetings by recording key discussion points, decisions, and action items. Notes are shared with members following meetings to ensure continuity, transparency, and reference for future discussions. The final notes are uploaded to the website and posted alongside each meeting’s agenda.
+
+**lunchiMUG Coordinator**
+
+The lunchiMUG Coordinator organizes informal post-meeting lunches by selecting locations and coordinating logistics. These gatherings provide an opportunity for continued discussion, networking, and knowledge sharing in a more casual setting following MUG meetings.
 
 **Members**
 
