@@ -1,65 +1,70 @@
+import base64
 import os
+from email.mime.text import MIMEText
+
 import pandas as pd
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
-from email.mime.text import MIMEText
-import base64
-
 
 # Email configuration
-sender_email = 'utahmug@gmail.com'
+sender_email = "utahmug@gmail.com"
 
-contacts = pd.read_csv('_email/contacts.csv')
-contacts_mug = contacts[contacts['Label'].str.contains('MUG List', na=False)]
-receiver_emails = contacts_mug['Email'].tolist()
-#receiver_emails = ['chris.day@wfrc.utah.gov']
+contacts = pd.read_csv("_email/contacts.csv")
+contacts_mug = contacts[contacts["Label"].str.contains("MUG List", na=False)]
+receiver_emails = contacts_mug["Email"].tolist()
+# receiver_emails = ["chris.day@wfrc.utah.gov"]
 
-#subject = "New Blog Post Alert"
-subject = "January 2026 Meeting Agenda"
+# subject = "New Blog Post Alert"
+subject = "May 2026 Meeting Agenda"
 message_body = """
 <p>Happy Friday,</p>
-<p>The agenda for the next UtahMUG meeting has been finalized! See full details here: <a href="https://utahmug.org/meeting10/">https://utahmug.org/meeting10/</a></p>
+<p>The agenda for the next UtahMUG meeting has been finalized! See full details here: <a href="https://utahmug.org/meeting11/">https://utahmug.org/meeting11/</a></p>
 <p><i>If you do not want to receive email updates, please let Chris Day know at chris.day@wfrc.utah.gov and he will take you off the list of recipients.</i></p>
 """
 
 # Set up Gmail API
-SCOPES = ['https://www.googleapis.com/auth/gmail.send']
+SCOPES = ["https://www.googleapis.com/auth/gmail.send"]
 creds = None
 
-if os.path.exists('token.json'):
-    creds = Credentials.from_authorized_user_file('token.json', SCOPES)
+if os.path.exists("token.json"):
+    creds = Credentials.from_authorized_user_file("token.json", SCOPES)
 
 if not creds or not creds.valid:
     flow = InstalledAppFlow.from_client_secrets_file(
-        '_email/client_secrets.json', SCOPES, redirect_uri='http://localhost/8080') #maybe 8000
+        "_email/client_secrets.json", SCOPES, redirect_uri="http://localhost/8080"
+    )  # maybe 8000
     creds = flow.run_local_server(port=8080)
 
 # Save the credentials for the next run
-with open('token.json', 'w') as token:
+with open("token.json", "w") as token:
     token.write(creds.to_json())
 
 # Create the Gmail service
-service = build('gmail', 'v1', credentials=creds)
+service = build("gmail", "v1", credentials=creds)
 
 # Send the email to multiple recipients
 for receiver_email in receiver_emails:
     # Create the email message using MIMEText
-    message = MIMEText(message_body, 'html')
-    message['to'] = receiver_email
-    message['from'] = sender_email
-    message['subject'] = subject
+    message = MIMEText(message_body, "html")
+    message["to"] = receiver_email
+    message["from"] = sender_email
+    message["subject"] = subject
 
     # Encode the message as base64
-    email_message = base64.urlsafe_b64encode(message.as_bytes()).decode('utf-8')
+    email_message = base64.urlsafe_b64encode(message.as_bytes()).decode("utf-8")
 
     try:
-        message = (service.users().messages().send(userId='me', body={'raw': email_message})
-                   .execute())
+        message = (
+            service.users()
+            .messages()
+            .send(userId="me", body={"raw": email_message})
+            .execute()
+        )
         print(f"Email sent successfully to {receiver_email}.")
     except Exception as e:
         print(f"An error occurred while sending the email to {receiver_email}: {e}")
 
-if os.path.exists('token.json'):
-    os.remove('token.json')
+if os.path.exists("token.json"):
+    os.remove("token.json")
     print("token.json file has been deleted.")
