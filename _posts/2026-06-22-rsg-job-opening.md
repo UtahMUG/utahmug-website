@@ -16,6 +16,6 @@ As a member of our team, you have a keen interest in transportation and possess 
 Candidates should be passionate about leveraging data-driven insights to enhance clients' transit forecasting capabilities. The ideal candidate will be proactive, detail-oriented, and possess strong problem-solving skills. An ability to communicate with clients, team members, and stakeholders, both verbally and in writing through informal interactions as well as through written reports and presentations is required.
 
 If interested, please submit resume and cover letter through the link below. Applications submitted through Indeed/other sites will not be considered.
-https://rsg.clearcompany.com/careers/jobs/9fc22b7a-038e-abe4-3b99-50477d4dc61e/apply?source=3615710-CS-20573
+[https://rsg.clearcompany.com/careers/jobs/9fc22b7a-038e-abe4-3b99-50477d4dc61e/apply?source=3615710-CS-20573](https://rsg.clearcompany.com/careers/jobs/9fc22b7a-038e-abe4-3b99-50477d4dc61e/apply?source=3615710-CS-20573)
 
 (for the full job posting, please see [here](../downloads/CONSULTANT- STOPS.docx).)
