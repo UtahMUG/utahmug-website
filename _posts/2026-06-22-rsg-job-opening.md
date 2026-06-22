@@ -9,7 +9,7 @@ author: Elizabeth Jaiyeoba
 
 **Grade: Consultant**
 
-RSG is seeking a consultant level Manager to join our Transit Forecasting Team. This role will focus on utilizing statistical methods and data processing techniques to develop travel models and outputs, managing various consulting engagements and supporting business development. The position may be remote or based from an RSG office in Burlington/White River Junction, VT | Portland, OR | Chicago, IL | Washington, DC | Denver, CO.
+RSG is seeking a consultant level Manager to join our Transit Forecasting Team. This role will focus on utilizing statistical methods and data processing techniques to develop travel models and outputs, managing various consulting engagements and supporting business development. The position may be remote or based from an RSG office in Burlington/White River Junction, VT; Portland, OR; Chicago, IL; Washington, DC; Denver, CO.
 
 As a member of our team, you have a keen interest in transportation and possess a strong foundation in statistical analysis, data analysis or programming. Successful candidates will be responsible for leading hands-on development of travel models using advanced data analysis techniques, applying novel programming solutions and gaining familiarity with tools such as the FTA STOPS model and other modeling packages. 
 
