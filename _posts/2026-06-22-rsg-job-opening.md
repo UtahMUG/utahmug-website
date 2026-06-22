@@ -2,7 +2,7 @@
 layout: post
 title: RSG is Hiring
 categories:
-author: Elizabeth Jaiyeoba
+author: Liz Jaiyeoba
 ---
 
 **Position title. Manager, Transit Forecasting**
